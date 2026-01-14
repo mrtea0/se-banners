@@ -1,18 +1,23 @@
 {
   "enabled": true,
-  "banners": [    {
+  "banners": [
+    {
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
       "clickUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_7_en_7_mrtea-1674542",
-      "durationSeconds": 10
+      "durationSeconds": 10,
+      "tooltip": "Здесь может быть ваша реклама за 49₽/мес"
     },
     {
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner2.png",
       "clickUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_7_en_7_mrtea-1674542",
-      "durationSeconds": 10
+      "durationSeconds": 10,
+      "tooltip": "Здесь может быть ваша реклама за 590₽/год"
     }
   ],
+  "compactBanners": [],
   "version": "1.0.0",
   "appVersion": "8",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_7_en_7_mrtea-1674542",
-  "updateNotificationDurationSeconds": 30
+  "updateNotificationDurationSeconds": 30,
+  "donatorIds": []
 }
