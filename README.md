@@ -13,12 +13,19 @@
     {
       "bannerImageUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/banners/banner1.png",
       "clickUrl": "https://example.com/promo1",
-      "durationSeconds": 120
+      "durationSeconds": 60
     },
     {
       "bannerImageUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/banners/828e543d.png",
       "clickUrl": "https://example.com/promo2",
-      "durationSeconds": 180
+      "durationSeconds": 60
+    },
+  ],
+    "compactBanners": [
+    {
+      "bannerImageUrl": "https://..../banner_90px.png",
+      "clickUrl": "https://...",
+      "durationSeconds": 60
     }
   ],
   "version": "1.0.0"
@@ -53,7 +60,7 @@
 
 - **updateNotificationDurationSeconds** (integer, опционально) - сколько секунд показывать уведомление об обновлении
 
-## Как обновить баннеры Через командную строку
+## Как обновить баннеры через командную строку
 
 ```cmd
 cd путь/к/репозиторию
