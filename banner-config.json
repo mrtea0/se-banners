@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "banners": [    {
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
+      "clickUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_7_en_7_mrtea-1674542",
+      "durationSeconds": 10
+    },
+    {
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner2.png",
+      "clickUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_7_en_7_mrtea-1674542",
+      "durationSeconds": 10
+    },
+    {
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner3.png",
+      "clickUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_7_en_7_mrtea-1674542",
+      "durationSeconds": 5
+    }
+  ],
+  "version": "1.0.2",
+  "appVersion": "8",
+  "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_7_en_7_mrtea-1674542",
+  "updateNotificationDurationSeconds": 30
+}
