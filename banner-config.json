@@ -14,7 +14,14 @@
       "tooltip": "Здесь может быть ваша реклама за 590₽/год"
     }
   ],
-  "compactBanners": [],
+  "compactBanners": [
+    {
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/compactBanner1.gif",
+      "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
+      "durationSeconds": 10,
+      "tooltip":"Подкинте рублей на интернет"
+    }
+  ],
   "version": "1.0.0",
   "appVersion": "8",
   "downloadUrl": "https://users.playground.ru/4715849/posts/cheat",
