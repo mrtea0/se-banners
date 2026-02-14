@@ -1,0 +1,48 @@
+{
+  "enabled": true,
+  "banners": [
+    {
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
+      "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
+      "durationSeconds": 10,
+      "tooltip": "Здесь может быть ваша реклама за 49₽/мес"
+    },
+    {
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner2.png",
+      "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
+      "durationSeconds": 10,
+      "tooltip": "Здесь может быть ваша реклама за 590₽/год"
+    }
+  ],
+  "compactBanners": [
+    {
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/compactBanner1.gif",
+      "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
+      "durationSeconds": 10,
+      "tooltip":"Это баренер с просьбой подкинуть рублей на интернет, а ещё пример рекламного банера за 149₽/мес"
+    }
+  ],
+  "version": "9.0.2",
+  "appVersion": "9",
+  "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_9_mrtea07-1674542",
+  "contactUrl": "https://users.playground.ru/4715849/posts/cheat",
+  "updateNotificationDurationSeconds": 60,
+  "donatorIds": [],
+  "tm_enabled": true,
+  "email_if_tg_is_not": true,
+  "tg_enabled": true,
+  "tg_tmy_enabled": true,
+  "tg_errors_enabled": true,
+  "tg_feedback_enabled": true,
+  "tg_blocked_versions": [],
+  "email_enabled": true,
+  "email_tmy_enabled": true,
+  "email_errors_enabled": true,
+  "email_feedback_enabled": true,
+  "email_blocked_versions": [],
+  "spam_filter_minutes": 1,
+  "delete_banner_cache_all": false,
+  "request_current_online": false,
+  "blocked_users": {},
+  "self_delete_version": ""
+}
