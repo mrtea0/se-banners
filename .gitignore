@@ -1,3 +1,10 @@
+# Игнорируем всё кроме нужных файлов
+/*
+!/.gitignore
+!/README.md
+!/banner-config.json
+!/banners/
+
 # OS files
 .DS_Store
 Thumbs.db
@@ -6,5 +13,3 @@ Thumbs.db
 *.swp
 *.swo
 *~
-.vscode/
-.idea/
