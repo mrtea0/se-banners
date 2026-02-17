@@ -2,6 +2,13 @@
   "enabled": true,
   "banners": [
     {
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner5.png",
+      "clickUrl": "",
+      "durationSeconds": 30,
+      "tooltip": "С Масленицей, командир 💚! Хорошей игры и вкусного настроения 🥞"
+    },
+
+    {
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
       "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
       "durationSeconds": 10,
@@ -15,7 +22,7 @@
     }
   ],
   "compactBanners": [],
-  "version": "9.2.0",
+  "version": "9.2.1",
   "appVersion": "9.2",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_9_2_mrtea07-1674542",
   "contactUrl": "https://users.playground.ru/4715849/posts/cheat",
