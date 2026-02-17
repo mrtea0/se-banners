@@ -14,17 +14,10 @@
       "tooltip": "Здесь может быть ваша реклама за 590₽/год"
     }
   ],
-  "compactBanners": [
-    {
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/compactBanner1.gif",
-      "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
-      "durationSeconds": 10,
-      "tooltip":"Это баренер с просьбой подкинуть рублей на интернет, а ещё пример рекламного банера за 149₽/мес"
-    }
-  ],
-  "version": "9.0.3",
-  "appVersion": "9.1",
-  "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_9_1_mrtea07-1674542",
+  "compactBanners": [],
+  "version": "9.2.0",
+  "appVersion": "9.2",
+  "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_9_2_mrtea07-1674542",
   "contactUrl": "https://users.playground.ru/4715849/posts/cheat",
   "updateNotificationDurationSeconds": 60,
   "donatorIds": [],
