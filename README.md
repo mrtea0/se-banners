@@ -1,61 +1,76 @@
-# Конфигурация баннеров Space Haven Save Editor
+# Конфигурация баннеров
+## Структура
 
-Этот репозиторий содержит конфигурацию баннеров для Space Haven Save Editor.
+- `banner-config.json` - основной конфигурационный файл
+- `banners/` - папка с изображениями баннеров
 
-## Структура banner-config.json
-
-### Параметры баннера
-
-Каждый баннер в массиве `banners` или `compactBanners` имеет следующие параметры:
+## Формат конфигурации
 
 ```json
 {
-  "bannerImageUrl": "https://...",
-  "clickUrl": "https://...",
-  "durationSeconds": 10,
-  "tooltip": "Текст подсказки",
-  "stretch": "Uniform"
-}
-```
-
-### Режимы растяжения (stretch)
-
-Параметр `stretch` управляет отображением изображения баннера:
-
-- **`Uniform`** (по умолчанию) - сохраняет пропорции изображения, вписывается в область. Могут быть пустые поля по краям.
-- **`Fill`** - растягивает изображение на всю область, не сохраняя пропорции. Изображение может быть искажено.
-- **`UniformToFill`** - заполняет всю область, сохраняя пропорции. Часть изображения может быть обрезана.
-- **`None`** - отображает изображение в оригинальном размере без масштабирования.
-
-### Примеры использования
-
-```json
-{
+  "enabled": true,
   "banners": [
     {
-      "bannerImageUrl": "https://example.com/wide-banner.png",
-      "stretch": "UniformToFill",
-      "durationSeconds": 30
+      "bannerImageUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/banners/banner1.png",
+      "clickUrl": "https://example.com/promo1",
+      "durationSeconds": 60
     },
     {
-      "bannerImageUrl": "https://example.com/tall-banner.png",
-      "stretch": "Uniform",
-      "durationSeconds": 15
+      "bannerImageUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/banners/828e543d.png",
+      "clickUrl": "https://example.com/promo2",
+      "durationSeconds": 60
+    },
+  ],
+    "compactBanners": [
+    {
+      "bannerImageUrl": "https://..../banner_90px.png",
+      "clickUrl": "https://...",
+      "durationSeconds": 60
     }
-  ]
+  ],
+  "version": "1.0.0"
+    "appVersion": "8.0.0",
+  "downloadUrl": "https://github.com/USERNAME/REPO/releases/latest"
 }
 ```
 
-### Рекомендации
+### Поля:
 
-- Для широких баннеров (16:9, 21:9) используйте `UniformToFill` или `Uniform`
-- Для квадратных баннеров используйте `Uniform`
-- Для баннеров с важным содержимым по краям используйте `Uniform`
-- Для баннеров-фонов используйте `UniformToFill` или `Fill`
+- **enabled** (boolean) - включить/выключить показ баннера
+  - `true` - баннеры активны, автоматически меняются по таймеру
+  - `false` - баннеры отключены
 
-## Размеры баннеров
+- **banners** (array) - массив объектов баннеров
+  - Каждый баннер имеет свое время показа
+  - Каждый объект содержит:
+    - **bannerImageUrl** (string) - прямая ссылка на изображение баннера
+    - **clickUrl** (string) - URL для перехода при клике
+    - **durationSeconds** (integer) - сколько секунд показывать этот баннер
 
-- Полный режим: 570px высота
-- Компактный режим: 90px высота
+- **version** (string) - версия конфигурации
+  - Увеличивайте при обновлении для сброса кэша
 
-Рекомендуемые пропорции: 16:9 или шире для полного режима.
+- **appVersion** (string, опционально) - последняя версия приложения
+  - Если указана, приложение проверит свою версию
+  - При наличии новой версии покажет уведомление
+
+- **downloadUrl** (string, опционально) - ссылка для скачивания новой версии
+  - Используется вместе с `appVersion`
+  - Открывается при клике на уведомление об обновлении
+
+- **updateNotificationDurationSeconds** (integer, опционально) - сколько секунд показывать уведомление об обновлении
+
+## Как обновить баннеры через командную строку
+
+```cmd
+cd путь/к/репозиторию
+```
+```cmd
+git add 
+```
+```cmd
+git commit -m "Обновил баннеры v1.1.0"
+```
+```cmd
+git push
+```
