@@ -3,7 +3,7 @@
   "banners": [
     {
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner_venom.png",
-      "clickUrl": "https://music.yandex.ru/album/28279495/track/119407474https://music.yandex.ru/album/28279495/track/119407474",
+      "clickUrl": "https://music.yandex.ru/album/28279495/track/119407474",
       "durationSeconds": 30,
       "tooltip": "Поддержи исполнителя 🎵\nПослушай трек на яндексе и поделись с другом",
       "stretch": "Uniform"
