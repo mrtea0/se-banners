@@ -3,19 +3,18 @@
   "banners": [
     {
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner_venom.png",
-      "clickUrl": "https://bit.ly/4kKFscG",
-      "durationSeconds": 20,
+      "clickUrl": "https://music.yandex.ru/album/28279495/track/119407474https://music.yandex.ru/album/28279495/track/119407474",
+      "durationSeconds": 30,
       "tooltip": "Поддержи исполнителя 🎵\nПослушай трек на яндексе и поделись с другом",
       "stretch": "Uniform"
     },
     {
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner5.png",
       "clickUrl": "",
-      "durationSeconds": 20,
+      "durationSeconds": 30,
       "tooltip": "С Масленицей, командир 💚!\nХорошей игры и вкусного настроения 🥞",
       "stretch": "Uniform"
     },
-
     {
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
       "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
