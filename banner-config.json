@@ -2,19 +2,20 @@
   "enabled": true,
   "banners": [
     {
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner23.png",
+      "clickUrl": "",
+      "durationSeconds": 30,
+      "tooltip": "Ты — тот, кто держит систему в порядке.\nНадёжно. Спокойно. До конца.\n💚",
+      "stretch": "Uniform"
+    },
+    {
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner_venom.png",
       "clickUrl": "https://music.yandex.ru/album/28279495/track/119407474",
       "durationSeconds": 30,
       "tooltip": "Поддержи исполнителя 🎵\nПослушай трек на яндексе и поделись с другом",
       "stretch": "Uniform"
     },
-    {
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner5.png",
-      "clickUrl": "",
-      "durationSeconds": 30,
-      "tooltip": "С Масленицей, командир 💚!\nХорошей игры и вкусного настроения 🥞",
-      "stretch": "Uniform"
-    },
+
     {
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
       "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
@@ -30,7 +31,8 @@
       "stretch": "Uniform"
     }
   ],
-  "compactBanners": [],
+  "compactBanners": [ 
+  ],
   "version": "9.2.2",
   "appVersion": "9.2",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_9_2_mrtea07-1674542",
