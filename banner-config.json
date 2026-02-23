@@ -2,13 +2,6 @@
   "enabled": true,
   "banners": [
     {
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner23.png",
-      "clickUrl": "",
-      "durationSeconds": 40,
-      "tooltip": "Ты — тот, кто держит систему в порядке.\nНадёжно. Спокойно. До конца.\n💚",
-      "stretch": "Uniform"
-    },
-    {
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner_venom.png",
       "clickUrl": "https://music.yandex.ru/album/28279495/track/119407474",
       "durationSeconds": 30,
@@ -31,7 +24,13 @@
       "stretch": "Uniform"
     }
   ],
-  "compactBanners": [ 
+  "compactBanners": [     {
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/compactBanner1.gif",
+      "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
+      "durationSeconds": 10,
+      "tooltip": "Здесь может быть ваша реклама за 149₽/месяц.\nОтключить эту рекламу для всех 149₽/месяц",
+      "stretch": "Uniform"
+    }
   ],
   "version": "9.2.3",
   "appVersion": "9.2",
