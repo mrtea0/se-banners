@@ -2,10 +2,10 @@
   "enabled": true,
   "banners": [
     {
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner_dr.png",
-      "clickUrl": "https://vk.com/icekorsunity",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner_8.png",
+      "clickUrl": "",
       "durationSeconds": 30,
-      "tooltip": "Сегодня 7 марта день рождения у КОРСа🎉\nПоддержите его музыку: кликайте, слушайте, лайкайте 🎧\nvk.com/icekorsunity ↗\nНакидайте туда нового мема с токсисом",
+      "tooltip": "🌸 С Международным женским днем! 🌸\nПоздравляю! Желаю, чтобы уровень твоего настроения всегда был зафиксирован на 9999\nКомандир, поздравь своих маму, сестёр, девушеку! (и тд) 💐 Скажите тёплые слова, подарите цветы и сделайте этот день для них особенным. 💐\n Ну же пора сделать квест — поздравить девушек с 8 Марта.\nНаграда: улыбка и +100 к статам. 🚀",
       "stretch": "Uniform"
     },
     {
@@ -24,14 +24,14 @@
     }
   ],
   "compactBanners": [     {
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/compactBanner_dr.png",
-      "clickUrl": "https://vk.com/icekorsunity",
-      "durationSeconds": 10,
-      "tooltip": "Сегодня 7 марта день рождения у КОРСа🎉\nПоддержите его музыку: кликайте, слушайте, лайкайте 🎧\nvk.com/icekorsunity ↗\nНакидайте туда нового мема с токсисом",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/compactBanner_8.png",
+      "clickUrl": "",
+      "durationSeconds": 30,
+      "tooltip": "🌸 С Международным женским днем! 🌸\nПоздравляю! Желаю, чтобы уровень твоего настроения всегда был зафиксирован на 9999\nКомандир, поздравь своих маму, сестёр, девушеку! (и тд) 💐 Скажите тёплые слова, подарите цветы и сделайте этот день для них особенным. 💐\n Ну же пора сделать квест — поздравить девушек с 8 Марта.\nНаграда: улыбка и +100 к статам. 🚀",
       "stretch": "Uniform"
     }
   ],
-  "version": "9.2.7",
+  "version": "9.2.8",
   "appVersion": "9.2",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_9_2_mrtea07-1674542",
   "contactUrl": "https://users.playground.ru/4715849/posts/cheat",
