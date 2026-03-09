@@ -21,7 +21,7 @@
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/compactBanner_8.png",
       "clickUrl": "",
       "durationSeconds": 60,
-      "tooltip": "Если читаешь это отправь сообщение через Обратная связь",
+      "tooltip": "Если читаешь это отправь сообщение через Справка > Обратная связь",
       "stretch": "Uniform"
     }
   ],
