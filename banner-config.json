@@ -7,7 +7,11 @@
       "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
       "durationSeconds": 10,
       "tooltip": "Здесь может быть ваша реклама за 49₽/мес",
-      "stretch": "Uniform"
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": true
     },
     {
       "name": "banner2_SH",
@@ -15,7 +19,11 @@
       "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
       "durationSeconds": 10,
       "tooltip": "Здесь может быть ваша реклама за 590₽/год",
-      "stretch": "Uniform"
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": false
     }
   ],
   "compactBanners": [     
@@ -41,6 +49,7 @@
   "contactUrl": "https://users.playground.ru/4715849/posts/cheat",
   "updateNotificationDurationSeconds": 60,
   "donatorIds": [],
+  "proModeEnabled": true,
   "tm_enabled": true,
   "email_if_tg_is_not": true,
   "tg_enabled": true,
