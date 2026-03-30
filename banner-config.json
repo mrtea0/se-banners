@@ -1,6 +1,18 @@
 {
   "enabled": true,
   "banners": [
+        {
+      "name": "banner10_New",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner10.png",
+      "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
+      "durationSeconds": 10,
+      "tooltip": "Новая 10 версия выдет 1 апреля без шуток",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": true
+    },
     {
       "name": "banner1_SH",
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
@@ -23,11 +35,10 @@
       "clickAction": "url",
       "text": "",
       "subText": "",
-      "forceShow": false
+      "forceShow": true
     }
   ],
-  "compactBanners": [
-  ],
+  "compactBanners": [],
   "version": "9.2.93",
   "appVersion": "9.2",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_9_2_mrtea07-1674542",
