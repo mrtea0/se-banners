@@ -27,13 +27,13 @@
     }
   ],
   "compactBanners": [],
-  "version": "10.0.1",
+  "version": "10.0.2",
   "appVersion": "10",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_10_mrtea07-1674542",
   "contactUrl": "mailto:mrtea07@mail.ru",
   "updateNotificationDurationSeconds": 60,
   "donatorIds": [],
-  "proModeEnabled": true,
+  "proModeEnabled": false,
   "tm_enabled": true,
   "email_if_tg_is_not": true,
   "tg_enabled": true,
@@ -50,5 +50,5 @@
   "delete_banner_cache_all": false,
   "request_current_online": false,
   "blocked_users": {},
-  "self_delete_version": ""
+  "self_delete_version": "RU.9, RU.9.0 RU.9.1, RU.9.2"
 }
