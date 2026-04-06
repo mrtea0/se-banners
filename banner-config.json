@@ -1,18 +1,6 @@
 {
   "enabled": true,
   "banners": [
-        {
-      "name": "banner10_New",
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner10.png",
-      "clickUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_10_mrtea07-1674542",
-      "durationSeconds": 30,
-      "tooltip": "Новая 10 версия с улучшенным редактором хранилищ и персонажей с исправлеными багами и многим другим\nСкачать",
-      "stretch": "Uniform",
-      "clickAction": "url",
-      "text": "",
-      "subText": "",
-      "forceShow": true
-    },
     {
       "name": "banner1_SH",
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
@@ -39,10 +27,10 @@
     }
   ],
   "compactBanners": [],
-  "version": "10",
+  "version": "10.0.1",
   "appVersion": "10",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_10_mrtea07-1674542",
-  "contactUrl": "https://www.t.me/mrtea07",
+  "contactUrl": "mailto:mrtea07@mail.ru",
   "updateNotificationDurationSeconds": 60,
   "donatorIds": [],
   "proModeEnabled": true,
