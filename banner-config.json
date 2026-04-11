@@ -39,8 +39,19 @@
     }
 
   ],
-  "compactBanners": [],
-  "version": "10.0.3",
+  "compactBanners": [{
+      "name": "compactBanner1204",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/compactBanner1204.png",
+      "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
+      "durationSeconds": 10,
+      "tooltip": "Командир, Христос Воскресе!\nПусть в жизни будет как в хорошем сейве:\nвсё нужное сохранено,\nлишнее спокойно удалено,\nи всегда есть возможность начать с точки,\nгде тебе действительно хорошо.\n\n[Расширенный режим активен: Демонстрационный]",
+      "stretch": "Uniform",
+      "clickAction": "feedback:2",
+      "text": "Командир, Христос Воскресе!",
+      "subText": "Пусть в жизни будет как в хорошем сейве:\nвсё нужное сохранено,\nлишнее спокойно удалено,\nи всегда есть возможность начать с точки,\nгде тебе действительно хорошо.\n\n[Расширенный режим активен: Демонстрационный]",
+      "forceShow": true
+    }],
+  "version": "10.0.4",
   "appVersion": "10",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_10_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
