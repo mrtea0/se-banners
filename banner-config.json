@@ -1,18 +1,7 @@
 {
   "enabled": true,
-  "banners": [
-    {
-      "name": "banner1204",
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1204.png",
-      "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
-      "durationSeconds": 60,
-      "tooltip": "Командир, Христос Воскресе!\nПусть в жизни будет как в хорошем сейве:\nвсё нужное сохранено,\nлишнее спокойно удалено,\nи всегда есть возможность начать с точки,\nгде тебе действительно хорошо.\n\n[Расширенный режим активен: Демонстрационный]",
-      "stretch": "Uniform",
-      "clickAction": "feedback:2",
-      "text": "Командир, Христос Воскресе!",
-      "subText": "Пусть в жизни будет как в хорошем сейве:\nвсё нужное сохранено,\nлишнее спокойно удалено,\nи всегда есть возможность начать с точки,\nгде тебе действительно хорошо.\n\n[Расширенный режим активен: Демонстрационный]",
-      "forceShow": true
-    },
+  "banners": 
+  [
     {
       "name": "banner1_SH",
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
@@ -37,27 +26,15 @@
       "subText": "",
       "forceShow": true
     }
-
   ],
-  "compactBanners": [{
-      "name": "compactBanner1204",
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/compactBanner1204.png",
-      "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
-      "durationSeconds": 10,
-      "tooltip": "Командир, Христос Воскресе!\nПусть в жизни будет как в хорошем сейве:\nвсё нужное сохранено,\nлишнее спокойно удалено,\nи всегда есть возможность начать с точки,\nгде тебе действительно хорошо.\n\n[Расширенный режим активен: Демонстрационный]",
-      "stretch": "Uniform",
-      "clickAction": "feedback:2",
-      "text": "Командир, Христос Воскресе!",
-      "subText": "Пусть в жизни будет как в хорошем сейве:\nвсё нужное сохранено,\nлишнее спокойно удалено,\nи всегда есть возможность начать с точки,\nгде тебе действительно хорошо.\n\n[Расширенный режим активен: Демонстрационный]",
-      "forceShow": true
-    }],
-  "version": "10.0.4",
+  "compactBanners": [],
+  "version": "10.0.5",
   "appVersion": "10",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_10_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
   "updateNotificationDurationSeconds": 60,
   "donatorIds": [],
-  "proModeEnabled": true,
+  "proModeEnabled": false,
   "tm_enabled": true,
   "email_if_tg_is_not": true,
   "tg_enabled": true,
