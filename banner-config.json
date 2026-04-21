@@ -35,6 +35,7 @@
   "updateNotificationDurationSeconds": 60,
   "donatorIds": ["08b533ba7c6f4be5","ff25edf2e155377c"],
   "proModeEnabled": false,
+  "proModePrice": "1 USDT (~50 ₽)",
   "tm_enabled": true,
   "email_if_tg_is_not": true,
   "tg_enabled": true,
@@ -50,6 +51,7 @@
   "spam_filter_minutes": 1,
   "delete_banner_cache_all": false,
   "request_current_online": false,
-  "blocked_users": {},
-  "self_delete_version": "RU.9, RU.9.0 RU.9.1, RU.9.2"
+  "blocked_users": ["ff25edf2e155377c"],
+  "self_delete_version": "RU.9, RU.9.0 RU.9.1, RU.9.2",
+  "languages": ["ru:Русский:1","en:English (Alpha):1","Saveyan:Сейвианский:1"]
 }
