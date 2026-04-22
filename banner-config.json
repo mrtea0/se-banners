@@ -31,11 +31,11 @@
   "miniBanners": [
     {
       "name": "mini_feedback",
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/bannerwhite.png",
       "clickUrl": "",
       "durationSeconds": 20,
       "tooltip": "Нажмите чтобы написать",
-      "stretch": "Uniform",
+      "stretch": "Fill",
       "clickAction": "feedback:1",
       "text": "by MrTea07",
       "subText": "",
