@@ -39,7 +39,7 @@
       "clickAction": "feedback:1",
       "text": "by MrTea07",
       "subText": "",
-      "forceShow": false
+      "forceShow": true
     }
   ],
   "version": "10.0.6",
