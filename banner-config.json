@@ -27,7 +27,21 @@
       "forceShow": true
     }
   ],
-  "compactBanners": [],
+  "compactBanners": [  ],
+  "miniBanners": [
+    {
+      "name": "mini_feedback",
+      "bannerImageUrl": "",
+      "clickUrl": "",
+      "durationSeconds": 20,
+      "tooltip": "Нажмите чтобы написать",
+      "stretch": "Uniform",
+      "clickAction": "feedback:1",
+      "text": "by MrTea07",
+      "subText": "",
+      "forceShow": false
+    }
+  ],
   "version": "10.0.6",
   "appVersion": "10",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_10_mrtea07-1674542",
