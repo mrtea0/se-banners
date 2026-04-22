@@ -38,7 +38,7 @@
       "clickAction": "feedback:2",
       "text": "Нашли баг или есть идея?",
       "subText": "Нажмите чтобы открыть форму",
-      "forceShow": false
+      "forceShow": true
     }
   ],
   "version": "10.0.6",
