@@ -3,23 +3,23 @@
   "banners": 
   [
     {
-      "name": "banner1_SH",
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
-      "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
-      "durationSeconds": 10,
-      "tooltip": "Здесь может быть ваша реклама за 49₽/мес",
-      "stretch": "Uniform",
-      "clickAction": "url",
-      "text": "",
-      "subText": "",
-      "forceShow": true
-    },
-    {
       "name": "banner2_SH",
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner2.png",
       "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
       "durationSeconds": 10,
-      "tooltip": "Здесь может быть ваша реклама за 590₽/год",
+      "tooltip": "Здесь может быть ваша реклама за ~49₽/мес",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": false
+    },    
+    {
+      "name": "banner1_SH",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
+      "clickUrl": "",
+      "durationSeconds": 10,
+      "tooltip": "",
       "stretch": "Uniform",
       "clickAction": "url",
       "text": "",
@@ -27,7 +27,20 @@
       "forceShow": true
     }
   ],
-  "compactBanners": [],
+  "compactBanners": [
+    {
+      "name": "compact_feedback",
+      "bannerImageUrl": "",
+      "clickUrl": "",
+      "durationSeconds": 20,
+      "tooltip": "Нажмите чтобы написать",
+      "stretch": "Uniform",
+      "clickAction": "feedback:2",
+      "text": "Нашли баг или есть идея?",
+      "subText": "Нажмите чтобы открыть форму",
+      "forceShow": false
+    }
+  ],
   "version": "10.0.6",
   "appVersion": "10",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_10_mrtea07-1674542",
@@ -53,5 +66,5 @@
   "request_current_online": false,
   "blocked_users": ["ff25edf2e155377c"],
   "self_delete_version": "RU.9, RU.9.0 RU.9.1, RU.9.2",
-  "languages": ["ru:Русский:1","en:English (Alpha):1","Saveyan:Сейвианский:1"]
+  "languages": ["ru:Русский:1","en:English:1","zh:中文:1"]
 }
