@@ -33,11 +33,11 @@
       "bannerImageUrl": "",
       "clickUrl": "",
       "durationSeconds": 20,
-      "tooltip": "Нажмите чтобы написать",
+      "tooltip": "Нажмите чтобы открыть форму",
       "stretch": "Uniform",
       "clickAction": "feedback:2",
       "text": "Нашли баг или есть идея?",
-      "subText": "Нажмите чтобы открыть форму",
+      "subText": "Нажмите чтобы написать",
       "forceShow": true
     }
   ],
