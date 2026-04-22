@@ -27,26 +27,13 @@
       "forceShow": true
     }
   ],
-  "compactBanners": [
-    {
-      "name": "compact_feedback",
-      "bannerImageUrl": "",
-      "clickUrl": "",
-      "durationSeconds": 20,
-      "tooltip": "Нажмите чтобы открыть форму",
-      "stretch": "Uniform",
-      "clickAction": "feedback:2",
-      "text": "Нашли баг или есть идея?",
-      "subText": "Нажмите чтобы написать",
-      "forceShow": true
-    }
-  ],
+  "compactBanners": [],
   "version": "10.0.6",
   "appVersion": "10",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_10_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
   "updateNotificationDurationSeconds": 60,
-  "donatorIds": ["08b533ba7c6f4be5"],
+  "donatorIds": ["08b533ba7c6f4be5","ff25edf2e155377c"],
   "proModeEnabled": false,
   "proModePrice": "1 USDT (~50 ₽)",
   "tm_enabled": true,
