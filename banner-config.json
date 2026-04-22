@@ -31,7 +31,7 @@
   "miniBanners": [
     {
       "name": "mini_feedback",
-      "bannerImageUrl": "",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
       "clickUrl": "",
       "durationSeconds": 20,
       "tooltip": "Нажмите чтобы написать",
