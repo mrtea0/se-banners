@@ -24,7 +24,7 @@
       "clickAction": "feedback:1",
       "text": "",
       "subText": "",
-      "forceShow": false
+      "forceShow": true
     },  
     {
       "name": "banner1_SH",
@@ -51,7 +51,7 @@
       "clickAction": "feedback:1",
       "text": "",
       "subText": "",
-      "forceShow": false
+      "forceShow": true
     }
    ],
   "miniBanners": [
