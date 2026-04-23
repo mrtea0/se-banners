@@ -60,9 +60,9 @@
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/savey.png",
       "clickUrl": "",
       "durationSeconds": 20,
-      "tooltip": "",
+      "tooltip": "Привет я Сейви Эдитор Тиевна",
       "stretch": "Uniform",
-      "clickAction": "feedback:1",
+      "clickAction": "feedback:2",
       "text": "by MrTea07",
       "subText": "",
       "forceShow": true
