@@ -7,13 +7,25 @@
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner2.png",
       "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
       "durationSeconds": 10,
-      "tooltip": "Здесь может быть ваша реклама за ~49₽/мес",
+      "tooltip": "Здесь может быть ваша реклама за ~69₽/мес",
       "stretch": "Uniform",
       "clickAction": "url",
       "text": "",
       "subText": "",
       "forceShow": false
-    },    
+    },
+    {
+      "name": "compactbanner_border",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/border.png",
+      "clickUrl": "mrtea07@mail.ru",
+      "durationSeconds": 10,
+      "tooltip": "Здесь может быть ваша реклама за ~68₽/мес",
+      "stretch": "Uniform",
+      "clickAction": "feedback:1",
+      "text": "",
+      "subText": "",
+      "forceShow": false
+    },  
     {
       "name": "banner1_SH",
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
@@ -27,7 +39,21 @@
       "forceShow": true
     }
   ],
-  "compactBanners": [  ],
+  "compactBanners": 
+  [    
+    {
+      "name": "compactbanner_border",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/border.png",
+      "clickUrl": "mrtea07@mail.ru",
+      "durationSeconds": 10,
+      "tooltip": "Здесь может быть ваша реклама за ~199₽/мес",
+      "stretch": "Uniform",
+      "clickAction": "feedback:1",
+      "text": "",
+      "subText": "",
+      "forceShow": false
+    }
+   ],
   "miniBanners": [
     {
       "name": "mini_feedback",
@@ -49,7 +75,7 @@
   "updateNotificationDurationSeconds": 60,
   "donatorIds": ["08b533ba7c6f4be5","ff25edf2e155377c"],
   "proModeEnabled": false,
-  "proModePrice": "1 USDT (~50 ₽)",
+  "proModePrice": "1 USDT (~69 ₽)",
   "tm_enabled": true,
   "email_if_tg_is_not": true,
   "tg_enabled": true,
