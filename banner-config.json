@@ -15,7 +15,7 @@
       "forceShow": false
     },
     {
-      "name": "compactbanner_border",
+      "name": "banner_border",
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/border.png",
       "clickUrl": "mrtea07@mail.ru",
       "durationSeconds": 10,
