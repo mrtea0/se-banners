@@ -48,7 +48,7 @@
       "durationSeconds": 10,
       "tooltip": "Здесь может быть ваша реклама за ~199₽/мес",
       "stretch": "Fill",
-      "clickAction": "feedback:1",
+      "clickAction": "feedback",
       "text": "",
       "subText": "",
       "forceShow": true
