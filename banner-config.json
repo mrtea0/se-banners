@@ -7,25 +7,13 @@
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner2.png",
       "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
       "durationSeconds": 10,
-      "tooltip": "Здесь может быть ваша реклама за ~69₽/мес",
+      "tooltip": "Здесь может быть ваша реклама за ~69₽ месяц",
       "stretch": "Uniform",
       "clickAction": "url",
       "text": "",
       "subText": "",
       "forceShow": false
-    },
-    {
-      "name": "banner_border",
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/border.png",
-      "clickUrl": "mrtea07@mail.ru",
-      "durationSeconds": 10,
-      "tooltip": "Здесь может быть ваша реклама за ~69₽/мес",
-      "stretch": "Fill",
-      "clickAction": "feedback:1",
-      "text": "",
-      "subText": "",
-      "forceShow": true
-    },  
+    }, 
     {
       "name": "banner1_SH",
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
@@ -41,19 +29,8 @@
   ],
   "compactBanners": 
   [    
-    {
-      "name": "compactbanner_border",
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/border.png",
-      "clickUrl": "mrtea07@mail.ru",
-      "durationSeconds": 10,
-      "tooltip": "Здесь может быть ваша реклама за ~199₽/мес",
-      "stretch": "Fill",
-      "clickAction": "feedback",
-      "text": "",
-      "subText": "",
-      "forceShow": true
-    }
-   ],
+
+  ],
   "miniBanners": [
     {
       "name": "mini_feedback",
@@ -68,12 +45,12 @@
       "forceShow": true
     }
   ],
-  "version": "10.0.6",
+  "version": "10.0.7",
   "appVersion": "10",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_10_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
   "updateNotificationDurationSeconds": 60,
-  "donatorIds": ["08b533ba7c6f4be5"],
+  "donatorIds": ["08b533ba7c6f4be5","ff25edf2e155377c"],
   "proModeEnabled": false,
   "proModePrice": "1 USDT (~69 ₽)",
   "tm_enabled": true,
