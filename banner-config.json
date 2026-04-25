@@ -70,5 +70,5 @@
   "request_current_online": false,
   "blocked_users": ["ff25edf2e155377c"],
   "self_delete_version": "RU.9, RU.9.0 RU.9.1, RU.9.2",
-  "languages": ["ru:Русский:1","en:English:1","zh:中文:1","cs:Čeština:1","de:Deutsch:1","es:Español:1","fr:Français:1","it:Italiano:1","ja:日本語:1","ko:한국어:1","pl:Polski:1","pt:Português (Brasil):1","tr:Türkçe:1","savy:Русский (Сейвианский):1"]
+  "languages": ["ru:Русский:1","en:English:1","zh:中文:1","cs:Čeština:1","de:Deutsch:1","es:Español:1","fr:Français:1","it:Italiano:1","ja:日本語:1","ko:한국어:1","pl:Polski:1","pt:Português (Brasil):1","tr:Türkçe:1","saveyan:Русский (Сейвианский):1"]
 }
