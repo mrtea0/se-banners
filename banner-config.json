@@ -30,14 +30,14 @@
   "compactBanners": 
   [    
     {
-      "name": "text_feedback bug",
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/savey.png",
+      "name": "text_feedbackbug",
+      "bannerImageUrl": "",  
       "stretch": "Uniform",
-      "tooltip": "",
+      "tooltip": "Написать",
       "clickUrl": "",
       "clickAction": "feedback:2",
-      "text": "Обратная связь с 23 по 26 не работала",
-      "subText": "К концу месяца выйдет новая версия",
+      "text": "В настройках сложности не меняйте параметр type, игра не будет сохранятся. ",
+      "subText": "В описании настроек сложности не правилные значения. К концу месяца выйдет новая версия в ней:\nНастройки сложности переработаны, Локализация интерфейса\nМножество небольших улучшений и исправления ошибок.\nЭто пространство продаётся под баннер за 199₽ в месяц",
       "durationSeconds": 10,
       "forceShow": true
     }
@@ -57,7 +57,7 @@
       "forceShow": true
     }
   ],
-  "version": "10.0.10",
+  "version": "10.0.11",
   "appVersion": "10",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_10_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
