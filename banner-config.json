@@ -27,8 +27,36 @@
       "forceShow": true
     }
   ],
-  "compactBanners": [],
-  "miniBanners": [],
+  "compactBanners": 
+  [    
+    {
+      "name": "banner1_SH",
+      "bannerImageUrl": " ",
+      "clickUrl": " ",
+      "durationSeconds": 10,
+      "tooltip": " ",
+      "stretch": "Uniform",
+      "clickAction": "feedback:2",
+      "text": "Обратная связь с 23 по 26 не работала",
+      "subText": "К концу месяца выйдет новая версия",
+      "forceShow": true
+    }
+  ],
+  "miniBanners": 
+  [
+    {
+      "name": "hi",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/savey.png",
+      "clickUrl": "",
+      "durationSeconds": 20,
+      "tooltip": "Привет, я Сейви Эдитор Тиевна",
+      "stretch": "Uniform",
+      "clickAction": "feedback:2",
+      "text": "by MrTea07",
+      "subText": "",
+      "forceShow": true
+    }
+  ],
   "version": "10.0.10",
   "appVersion": "10",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_10_mrtea07-1674542",
