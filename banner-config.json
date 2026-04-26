@@ -54,7 +54,7 @@
   "proModeEnabled": false,
   "proModePrice": "1 USDT (~69 ₽)",
   "tm_enabled": true,
-  "email_if_tg_is_not": true,
+  "email_if_tg_is_not": false,
   "tg_enabled": true,
   "tg_tmy_enabled": true,
   "tg_errors_enabled": true,
