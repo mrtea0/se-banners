@@ -29,18 +29,14 @@
   ],
   "compactBanners": 
   [    
-    {
-      "name": "banner1_SH",
-      "bannerImageUrl": "",
-      "clickUrl": " ",
-      "durationSeconds": 10,
-      "tooltip": "",
-      "stretch": "Uniform",
-      "clickAction": "feedback:2",
-      "text": "Обратная связь с 23 по 26 не работала",
-      "subText": "К концу месяца выйдет новая версия",
-      "forceShow": true
-    }
+{
+  "name": "text_feedback",
+  "text": "Нравится редактор?",
+  "subText": "Нажми и оставь отзыв — это очень помогает!",
+  "clickAction": "feedback:1",
+  "durationSeconds": 9,
+  "tooltip": "Открыть форму обратной связи"
+}
   ],
   "miniBanners": 
   [
