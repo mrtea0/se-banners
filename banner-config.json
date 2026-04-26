@@ -27,7 +27,7 @@
       "forceShow": true
     }
   ],
- "compactBanners": [],
+  "compactBanners": [],
   "version": "10.0.9",
   "appVersion": "10",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_10_mrtea07-1674542",
@@ -50,6 +50,6 @@
   "spam_filter_minutes": 1,
   "delete_banner_cache_all": false,
   "request_current_online": false,
-  "blocked_users": [],
+
   "self_delete_version": "RU.9, RU.9.0, RU.9.1, RU.9.2"
 }
