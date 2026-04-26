@@ -51,5 +51,5 @@
   "delete_banner_cache_all": false,
   "request_current_online": false,
   "blocked_users": {},
-  "self_delete_version": "RU.9, RU.9.0 RU.9.1, RU.9.2"
+  "self_delete_version": "RU.9, RU.9.0, RU.9.1, RU.9.2"
 }
