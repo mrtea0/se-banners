@@ -30,15 +30,16 @@
   "compactBanners": 
   [    
     {
-  "name": "text_feedback bug",
-  "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/savey.png",
-  "stretch": "Uniform",
-  "tooltip": "",
-  "clickUrl": "",
-  "clickAction": "feedback:2",
-  "text": "Обратная связь с 23 по 26 не работала",
-  "subText": "К концу месяца выйдет новая версия",
-  "durationSeconds": 10
+      "name": "text_feedback bug",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/savey.png",
+      "stretch": "Uniform",
+      "tooltip": "",
+      "clickUrl": "",
+      "clickAction": "feedback:2",
+      "text": "Обратная связь с 23 по 26 не работала",
+      "subText": "К концу месяца выйдет новая версия",
+      "durationSeconds": 10,
+      "forceShow": true
     }
   ],
   "miniBanners": 
