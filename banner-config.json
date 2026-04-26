@@ -29,11 +29,11 @@
   ],
   "compactBanners": 
   [    
-{
-  "name": "text_feedback",
-  "text": "Нравится редактор?",
-  "subText": "Нажми и оставь отзыв — это очень помогает!",
-  "clickAction": "feedback:1",
+    {
+  "name": "text_feedback bug",
+  "text": "Обратная связь с 23 по 26 не работала",
+  "subText": "К концу месяца выйдет новая версия",
+  "clickAction": "feedback:2",
   "durationSeconds": 9,
   "tooltip": "Открыть форму обратной связи"
 }
