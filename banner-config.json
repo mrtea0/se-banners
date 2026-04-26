@@ -31,10 +31,10 @@
   [    
     {
       "name": "banner1_SH",
-      "bannerImageUrl": " ",
+      "bannerImageUrl": "",
       "clickUrl": " ",
       "durationSeconds": 10,
-      "tooltip": " ",
+      "tooltip": "",
       "stretch": "Uniform",
       "clickAction": "feedback:2",
       "text": "Обратная связь с 23 по 26 не работала",
