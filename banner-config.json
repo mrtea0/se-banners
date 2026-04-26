@@ -31,12 +31,15 @@
   [    
     {
   "name": "text_feedback bug",
+  "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/savey.png",
+  "stretch": "Uniform",
+  "tooltip": "",
+  "clickUrl": "",
+  "clickAction": "feedback:2",
   "text": "Обратная связь с 23 по 26 не работала",
   "subText": "К концу месяца выйдет новая версия",
-  "clickAction": "feedback:2",
-  "durationSeconds": 9,
-  "tooltip": "Открыть форму обратной связи"
-}
+  "durationSeconds": 10
+    }
   ],
   "miniBanners": 
   [
