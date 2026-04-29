@@ -732,6 +732,9 @@
   "lang.loading":                         "Загрузка...",
   "lang.no_network":                      "Нет сети",
   "lang.downloading":                     "↡ Загрузка языка...",
+  "lang.suggest":                         "Доступен интерфейс на вашем языке: {0}. Переключить?",
+  "lang.suggest_yes":                     "Переключить",
+  "lang.suggest_no":                      "Оставить как есть",
 
   "main.open_dialog_title":               "Выбери файл сохранения: savegames\\Название сохранения\\save",
   "main.save_dialog_title":               "Выберите место для сохранения файла",

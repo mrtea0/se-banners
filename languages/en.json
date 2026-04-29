@@ -730,6 +730,9 @@
   "lang.loading":                         "Loading...",
   "lang.no_network":                      "No network",
   "lang.downloading":                     "↡ Downloading language...",
+  "lang.suggest":                         "Interface available in your language: {0}. Switch?",
+  "lang.suggest_yes":                     "Switch",
+  "lang.suggest_no":                      "Keep current",
 
   "main.open_dialog_title":               "Select save file: savegames\\Save Name\\save",
   "main.save_dialog_title":               "Select location to save the file",
