@@ -468,7 +468,7 @@
   "banner.step1": "1. Dosya → Dosya Aç'a (veya Ctrl+O) tıklayın.",
   "banner.step2": "2. Space Haven kaydetme klasörünüzü bulun:",
 
-  "banner.path": "[Oyun klasörü]\\savegames\\[Kayıt adı]\\save\\"
+  "banner.path": "[Oyun klasörü]\\savegames\\[Kayıt adı]\\save\\",
   "banner.step3_pre": "3. Adlı bir dosya seçin",
   "banner.step3_name": "oyun",
   "banner.step3_post": "uzantısız",

@@ -468,7 +468,7 @@
   "banner.step1": "1. Clique em Arquivo → Abrir arquivo (ou Ctrl+O)",
   "banner.step2": "2. Encontre sua pasta de salvamento do Space Haven:",
 
-  "banner.path": "[Pasta do jogo]\\savegames\\[Nome do save]\\save\\"
+  "banner.path": "[Pasta do jogo]\\savegames\\[Nome do save]\\save\\",
   "banner.step3_pre": "3. Selecione um arquivo chamado",
   "banner.step3_name": "jogo",
   "banner.step3_post": "sem extensão",

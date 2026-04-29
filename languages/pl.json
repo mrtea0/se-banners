@@ -468,7 +468,7 @@
   "banner.step1": "1. Kliknij Plik → Otwórz plik (lub Ctrl+O)",
   "banner.step2": "2. Znajdź folder zapisu Space Haven:",
 
-  "banner.path": "[Folder gry]\\savegames\\[Nazwa zapisu]\\save\\"
+  "banner.path": "[Folder gry]\\savegames\\[Nazwa zapisu]\\save\\",
   "banner.step3_pre": "3. Wybierz plik o nazwie",
   "banner.step3_name": "gra",
   "banner.step3_post": "bez przedłużenia",

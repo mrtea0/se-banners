@@ -468,7 +468,7 @@
   "banner.step1": "1. 파일 → 파일 열기(또는 Ctrl+O)를 클릭하세요.",
   "banner.step2": "2. Space Haven 저장 폴더를 찾으세요:",
 
-  "banner.path": "[게임 폴더]\\savegames\\[저장 이름]\\save\\"
+  "banner.path": "[게임 폴더]\\savegames\\[저장 이름]\\save\\",
   "banner.step3_pre": "3. 이름이 지정된 파일을 선택합니다.",
   "banner.step3_name": "게임",
   "banner.step3_post": "확장 없이",

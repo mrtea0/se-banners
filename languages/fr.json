@@ -468,7 +468,7 @@
   "banner.step1": "1. Cliquez sur Fichier → Ouvrir un fichier (ou Ctrl+O)",
   "banner.step2": "2. Recherchez votre dossier de sauvegarde Space Haven :",
 
-  "banner.path": "[Dossier du jeu]\\savegames\\[Nom de la sauvegarde]\\save\\"
+  "banner.path": "[Dossier du jeu]\\savegames\\[Nom de la sauvegarde]\\save\\",
   "banner.step3_pre": "3. Sélectionnez un fichier nommé",
   "banner.step3_name": "jeu",
   "banner.step3_post": "sans prolongation",
