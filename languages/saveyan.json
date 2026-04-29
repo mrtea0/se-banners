@@ -729,6 +729,9 @@
   "diff.desc_claimables":                 "Как часто можно просто забрать себе целый корабль.",
 
   "lang.reload_hint":                     "Чтобы кодо-речь обновилась полностью — перезагрузи мир!",
+  "lang.loading":                         "Загрузка...",
+  "lang.no_network":                      "Сеть недоступна",
+  "lang.downloading":                     "Скачиваю языковой пакет...",
 
   "main.open_dialog_title":               "Выбери портал в мир (файл 'game')",
   "main.save_dialog_title":               "Куда сейвнуть таймлайн?",

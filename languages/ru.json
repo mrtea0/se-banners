@@ -731,6 +731,7 @@
   "lang.reload_hint":                     "Для полного обновления языка - откройте файл сохранения заново",
   "lang.loading":                         "Загрузка...",
   "lang.no_network":                      "Нет сети",
+  "lang.downloading":                     "↡ Загрузка языка...",
 
   "main.open_dialog_title":               "Выбери файл сохранения: savegames\\Название сохранения\\save",
   "main.save_dialog_title":               "Выберите место для сохранения файла",

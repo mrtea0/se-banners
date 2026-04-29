@@ -729,6 +729,7 @@
   "lang.reload_hint":                     "For a full language refresh - reopen the save file",
   "lang.loading":                         "Loading...",
   "lang.no_network":                      "No network",
+  "lang.downloading":                     "↡ Downloading language...",
 
   "main.open_dialog_title":               "Select save file: savegames\\Save Name\\save",
   "main.save_dialog_title":               "Select location to save the file",
