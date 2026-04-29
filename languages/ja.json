@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.language": "ja",
   "_meta.name": "日本語",
   "_meta.author": "MrTea07 (auto-translated)",
@@ -61,16 +61,16 @@
   "main.btn_exodus": "エクソダスのリソース",
   "main.btn_settings": "設定",
   "main.btn_max_all": "最大。すべてのために\\nすべての文字",
-  "main.btn_max_all_tip": "選択した船の全キャラクターの最大特性",
+  "main.btn_max_all_tip": "選択した船の全キャラクターの最大特性。\n負の状態（怪我、病気、デバフ）もすべて削除します",
   "main.btn_stabilizers": "すべて記入してください\\nスタビライザー",
   "main.btn_stabilizers_tip": "選択した船のすべてのスタビライザーを最大まで充填する",
   "main.build_tools": "構築ツール:",
   "main.build_tools_tip": "9999999 より大きい数値を設定することはお勧めしません",
   "character.title": "キャラクターエディター",
   "character.btn_max_all": "最大。全て",
-  "character.btn_max_all_tip": "すべての指標、スキル、資質の最大値*を設定",
+  "character.btn_max_all_tip": "すべての指標、スキル、資質の最大値*を設定。\n負の状態（怪我、病気、デバフ）もすべて削除します",
   "character.btn_max_stats": "最大。指標",
-  "character.btn_max_stats_tip": "すべての指標 (健康、食事、休息など) の値を 150 に設定します。",
+  "character.btn_max_stats_tip": "すべての指標（健康、食事、休息、ガス、体温など）の最大値*を設定します",
   "character.btn_max_skills": "最大。スキル",
   "character.btn_max_skills_tip": "すべてのスキルの値を10に設定します",
   "character.btn_max_attrs": "最大。資質",
@@ -467,6 +467,8 @@
   "banner.how_to_open": "保存ファイルを開く方法:",
   "banner.step1": "1. [ファイル] → [ファイルを開く] (または Ctrl+O) をクリックします。",
   "banner.step2": "2. Space Haven の保存フォルダーを見つけます。",
+
+  "banner.path": "[ゲームフォルダ]\\savegames\\[セーブ名]\\save\\"
   "banner.step3_pre": "3. という名前のファイルを選択します。",
   "banner.step3_name": "ゲーム",
   "banner.step3_post": "延長なしで",

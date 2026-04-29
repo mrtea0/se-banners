@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.language": "zh",
   "_meta.name": "中文 (简体)",
   "_meta.author": "MrTea07 (auto-translated)",
@@ -61,16 +61,16 @@
   "main.btn_exodus": "出埃及记资源",
   "main.btn_settings": "设置",
   "main.btn_max_all": "最大限度。一切都是为了\\n所有字符",
-  "main.btn_max_all_tip": "所选船舶所有角色的最大特征",
+  "main.btn_max_all_tip": "所选船舶所有角色的最大特征。\n同时删除所有负面状态（伤害、疾病、减益效果）",
   "main.btn_stabilizers": "全部填写\\n稳定剂",
   "main.btn_stabilizers_tip": "将所选船舶的所有稳定器填充至最大",
   "main.build_tools": "施工工具：",
   "main.build_tools_tip": "我不建议设置高于 9999999 的数字",
   "character.title": "角色编辑器",
   "character.btn_max_all": "最大限度。全部",
-  "character.btn_max_all_tip": "设置所有指标、技能和素质的最大值*值",
+  "character.btn_max_all_tip": "设置所有指标、技能和素质的最大值*。\n同时删除所有负面状态（伤害、疾病、减益效果）",
   "character.btn_max_stats": "最大限度。指标",
-  "character.btn_max_stats_tip": "将所有指标（健康、食物、休息等）的值设置为150",
+  "character.btn_max_stats_tip": "将所有指标（健康、食物、休息、气体、温度等）设置为最大值*",
   "character.btn_max_skills": "最大限度。技能",
   "character.btn_max_skills_tip": "将所有技能的值设置为10",
   "character.btn_max_attrs": "最大限度。品质",
@@ -467,6 +467,8 @@
   "banner.how_to_open": "如何打开保存文件：",
   "banner.step1": "1. 单击文件 → 打开文件（或 Ctrl+O）",
   "banner.step2": "2. 找到您的 Space Haven 保存文件夹：",
+
+  "banner.path": "[游戏文件夹]\\savegames\\[存档名称]\\save\\"
   "banner.step3_pre": "3. 选择一个名为",
   "banner.step3_name": "游戏",
   "banner.step3_post": "不带扩展名",

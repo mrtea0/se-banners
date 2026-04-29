@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.language": "ko",
   "_meta.name": "한국어",
   "_meta.author": "MrTea07 (auto-translated)",
@@ -61,16 +61,16 @@
   "main.btn_exodus": "출애굽 자료",
   "main.btn_settings": "설정",
   "main.btn_max_all": "최대. 위한 모든 것\\n모든 캐릭터",
-  "main.btn_max_all_tip": "선택한 선박의 모든 캐릭터에 대한 최대 특성",
+  "main.btn_max_all_tip": "선택한 선박의 모든 캐릭터에 대한 최대 특성.\n모든 부정적인 상태(부상, 질병, 디버프)도 제거합니다",
   "main.btn_stabilizers": "모두 작성하세요\\n안정제",
   "main.btn_stabilizers_tip": "선택한 선박의 모든 안정 장치를 최대로 채웁니다.",
   "main.build_tools": "건설 도구:",
   "main.build_tools_tip": "9999999보다 큰 숫자를 설정하지 않는 것이 좋습니다.",
   "character.title": "캐릭터 에디터",
   "character.btn_max_all": "최대. 모두",
-  "character.btn_max_all_tip": "모든 지표, 기술 및 자질에 대한 최대* 값을 설정합니다.",
+  "character.btn_max_all_tip": "모든 지표, 기술 및 자질에 대한 최대* 값을 설정합니다.\n모든 부정적인 상태(부상, 질병, 디버프)도 제거합니다",
   "character.btn_max_stats": "최대. 지표",
-  "character.btn_max_stats_tip": "모든 지표(건강, 음식, 휴식 등)에 대해 값을 150으로 설정합니다.",
+  "character.btn_max_stats_tip": "모든 지표(건강, 음식, 휴식, 가스, 온도 등)에 대해 최대* 값을 설정합니다",
   "character.btn_max_skills": "최대. 기술",
   "character.btn_max_skills_tip": "모든 스킬의 값을 10으로 설정",
   "character.btn_max_attrs": "최대. 자질",
@@ -467,6 +467,8 @@
   "banner.how_to_open": "저장 파일을 여는 방법:",
   "banner.step1": "1. 파일 → 파일 열기(또는 Ctrl+O)를 클릭하세요.",
   "banner.step2": "2. Space Haven 저장 폴더를 찾으세요:",
+
+  "banner.path": "[게임 폴더]\\savegames\\[저장 이름]\\save\\"
   "banner.step3_pre": "3. 이름이 지정된 파일을 선택합니다.",
   "banner.step3_name": "게임",
   "banner.step3_post": "확장 없이",

@@ -507,6 +507,7 @@
   "banner.how_to_open":                   "How to open a save file:",
   "banner.step1":                         "1. Click File -> Open File (or Ctrl+O)",
   "banner.step2":                         "2. Find the Space Haven saves folder:",
+  "banner.path":                          "[Game Folder]\\savegames\\[Save Name]\\save\\",
   "banner.step3_pre":                     "3. Select the file named ",
   "banner.step3_name":                    "game",
   "banner.step3_post":                    " with no extension",
@@ -726,6 +727,8 @@
   "diff.desc_claimables":                 "How often claimable ships appear",
 
   "lang.reload_hint":                     "For a full language refresh - reopen the save file",
+  "lang.loading":                         "Loading...",
+  "lang.no_network":                      "No network",
 
   "main.open_dialog_title":               "Select save file: savegames\\Save Name\\save",
   "main.save_dialog_title":               "Select location to save the file",

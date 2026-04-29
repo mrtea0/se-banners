@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.language": "fr",
   "_meta.name": "Français",
   "_meta.author": "MrTea07 (auto-translated)",
@@ -61,16 +61,16 @@
   "main.btn_exodus": "Ressources de l'Exode",
   "main.btn_settings": "Paramètres",
   "main.btn_max_all": "Max. tout pour\\ntous les personnages",
-  "main.btn_max_all_tip": "Caractéristiques maximales pour tous les personnages du navire sélectionné",
+  "main.btn_max_all_tip": "Caractéristiques maximales pour tous les personnages du navire sélectionné.\nSupprime également tous les états négatifs (blessures, maladies, debuffs)",
   "main.btn_stabilizers": "Remplissez tout\\nStabilisateurs",
   "main.btn_stabilizers_tip": "Remplissez tous les stabilisateurs du navire sélectionné au maximum",
   "main.build_tools": "Outils de construction :",
   "main.build_tools_tip": "Je ne recommande pas de définir un nombre supérieur à 9999999",
   "character.title": "Éditeur de personnages",
   "character.btn_max_all": "Max. Tous",
-  "character.btn_max_all_tip": "Fixe des valeurs maximales* pour tous les indicateurs, compétences et qualités",
+  "character.btn_max_all_tip": "Fixe des valeurs maximales* pour tous les indicateurs, compétences et qualités.\nSupprime également tous les états négatifs (blessures, maladies, debuffs)",
   "character.btn_max_stats": "Max. Indicateurs",
-  "character.btn_max_stats_tip": "Fixe les valeurs à 150 pour tous les indicateurs (santé, alimentation, repos, etc.)",
+  "character.btn_max_stats_tip": "Fixe les valeurs maximales* pour tous les indicateurs (santé, alimentation, repos, gaz, température, etc.)",
   "character.btn_max_skills": "Max. Compétences",
   "character.btn_max_skills_tip": "Fixe les valeurs à 10 pour toutes les compétences",
   "character.btn_max_attrs": "Max. Qualités",
@@ -467,6 +467,8 @@
   "banner.how_to_open": "Comment ouvrir un fichier de sauvegarde :",
   "banner.step1": "1. Cliquez sur Fichier → Ouvrir un fichier (ou Ctrl+O)",
   "banner.step2": "2. Recherchez votre dossier de sauvegarde Space Haven :",
+
+  "banner.path": "[Dossier du jeu]\\savegames\\[Nom de la sauvegarde]\\save\\"
   "banner.step3_pre": "3. Sélectionnez un fichier nommé",
   "banner.step3_name": "jeu",
   "banner.step3_post": "sans prolongation",

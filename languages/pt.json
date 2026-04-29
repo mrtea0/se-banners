@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.language": "pt",
   "_meta.name": "Português (Brasil)",
   "_meta.author": "MrTea07 (auto-translated)",
@@ -61,16 +61,16 @@
   "main.btn_exodus": "Recursos do Êxodo",
   "main.btn_settings": "Configurações",
   "main.btn_max_all": "Máx. tudo para\\ntodos os personagens",
-  "main.btn_max_all_tip": "Características máximas para todos os personagens do navio selecionado",
+  "main.btn_max_all_tip": "Características máximas para todos os personagens do navio selecionado.\nTambém remove todos os estados negativos (ferimentos, doenças, debuffs)",
   "main.btn_stabilizers": "Preencha tudo\\nEstabilizadores",
   "main.btn_stabilizers_tip": "Encha todos os estabilizadores do navio selecionado ao máximo",
   "main.build_tools": "Ferramentas de construção:",
   "main.build_tools_tip": "Não recomendo definir um número superior a 9999999",
   "character.title": "Editor de personagens",
   "character.btn_max_all": "Máx. Todos",
-  "character.btn_max_all_tip": "Define valores máximos* para todos os indicadores, habilidades e qualidades",
+  "character.btn_max_all_tip": "Define valores máximos* para todos os indicadores, habilidades e qualidades.\nTambém remove todos os estados negativos (ferimentos, doenças, debuffs)",
   "character.btn_max_stats": "Máx. Indicadores",
-  "character.btn_max_stats_tip": "Define valores em 150 para todos os indicadores (saúde, alimentação, descanso, etc.)",
+  "character.btn_max_stats_tip": "Define valores máximos* para todos os indicadores (saúde, alimentação, descanso, gases, temperatura, etc.)",
   "character.btn_max_skills": "Máx. Habilidades",
   "character.btn_max_skills_tip": "Define valores como 10 para todas as habilidades",
   "character.btn_max_attrs": "Máx. Qualidades",
@@ -467,6 +467,8 @@
   "banner.how_to_open": "Como abrir um arquivo salvo:",
   "banner.step1": "1. Clique em Arquivo → Abrir arquivo (ou Ctrl+O)",
   "banner.step2": "2. Encontre sua pasta de salvamento do Space Haven:",
+
+  "banner.path": "[Pasta do jogo]\\savegames\\[Nome do save]\\save\\"
   "banner.step3_pre": "3. Selecione um arquivo chamado",
   "banner.step3_name": "jogo",
   "banner.step3_post": "sem extensão",

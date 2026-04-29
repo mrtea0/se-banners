@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.language": "pl",
   "_meta.name": "Polski",
   "_meta.author": "MrTea07 (auto-translated)",
@@ -61,16 +61,16 @@
   "main.btn_exodus": "Zasoby Exodusu",
   "main.btn_settings": "Ustawienia",
   "main.btn_max_all": "Maks. wszystko dla\\nwszystkie postacie",
-  "main.btn_max_all_tip": "Maksymalne cechy dla wszystkich postaci wybranego statku",
+  "main.btn_max_all_tip": "Maksymalne cechy dla wszystkich postaci wybranego statku.\nUsuwa również wszystkie negatywne stany (obrażenia, choroby, debuffy)",
   "main.btn_stabilizers": "Wypełnij wszystko\\nStabilizatory",
   "main.btn_stabilizers_tip": "Wypełnij maksymalnie wszystkie stabilizatory wybranego statku",
   "main.build_tools": "Narzędzia budowlane:",
   "main.build_tools_tip": "Nie polecam ustawiania liczby większej niż 9999999",
   "character.title": "Edytor postaci",
   "character.btn_max_all": "Maks. Wszystko",
-  "character.btn_max_all_tip": "Ustawia maksymalne* wartości dla wszystkich wskaźników, umiejętności i cech",
+  "character.btn_max_all_tip": "Ustawia maksymalne* wartości dla wszystkich wskaźników, umiejętności i cech.\nUsuwa również wszystkie negatywne stany (obrażenia, choroby, debuffy)",
   "character.btn_max_stats": "Maks. Wskaźniki",
-  "character.btn_max_stats_tip": "Ustawia wartości na 150 dla wszystkich wskaźników (zdrowie, żywność, odpoczynek itp.)",
+  "character.btn_max_stats_tip": "Ustawia maksymalne* wartości dla wszystkich wskaźników (zdrowie, żywność, odpoczynek, gazy, temperatura itp.)",
   "character.btn_max_skills": "Maks. Umiejętności",
   "character.btn_max_skills_tip": "Ustawia wartości na 10 dla wszystkich umiejętności",
   "character.btn_max_attrs": "Maks. Właściwości",
@@ -467,6 +467,8 @@
   "banner.how_to_open": "Jak otworzyć plik zapisu:",
   "banner.step1": "1. Kliknij Plik → Otwórz plik (lub Ctrl+O)",
   "banner.step2": "2. Znajdź folder zapisu Space Haven:",
+
+  "banner.path": "[Folder gry]\\savegames\\[Nazwa zapisu]\\save\\"
   "banner.step3_pre": "3. Wybierz plik o nazwie",
   "banner.step3_name": "gra",
   "banner.step3_post": "bez przedłużenia",

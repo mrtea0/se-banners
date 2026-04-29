@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.language": "tr",
   "_meta.name": "Türkçe",
   "_meta.author": "MrTea07 (auto-translated)",
@@ -61,16 +61,16 @@
   "main.btn_exodus": "Çıkış Kaynakları",
   "main.btn_settings": "Ayarlar",
   "main.btn_max_all": "Maks. için her şey\\ntüm karakterler",
-  "main.btn_max_all_tip": "Seçilen geminin tüm karakterleri için maksimum özellikler",
+  "main.btn_max_all_tip": "Seçilen geminin tüm karakterleri için maksimum özellikler.\nAyrıca tüm olumsuz durumları (yaralanmalar, hastalıklar, debufflar) kaldırır",
   "main.btn_stabilizers": "Hepsini doldurun\\nstabilizatörler",
   "main.btn_stabilizers_tip": "Seçilen geminin tüm stabilizatörlerini maksimuma kadar doldurun",
   "main.build_tools": "İnşaat araçları:",
   "main.build_tools_tip": "Sayıyı 9999999'dan daha yükseğe ayarlamanızı önermiyorum",
   "character.title": "Karakter editörü",
   "character.btn_max_all": "Maks. Tüm",
-  "character.btn_max_all_tip": "Tüm göstergeler, beceriler ve nitelikler için maksimum* değerleri belirler",
+  "character.btn_max_all_tip": "Tüm göstergeler, beceriler ve nitelikler için maksimum* değerleri belirler.\nAyrıca tüm olumsuz durumları (yaralanmalar, hastalıklar, debufflar) kaldırır",
   "character.btn_max_stats": "Maks. Göstergeler",
-  "character.btn_max_stats_tip": "Tüm göstergeler (sağlık, yemek, dinlenme vb.) için değerleri 150 olarak ayarlar.",
+  "character.btn_max_stats_tip": "Tüm göstergeler (sağlık, yemek, dinlenme, gazlar, sıcaklık vb.) için maksimum* değerleri ayarlar",
   "character.btn_max_skills": "Maks. Yetenekler",
   "character.btn_max_skills_tip": "Tüm beceriler için değerleri 10 olarak ayarlar",
   "character.btn_max_attrs": "Maks. Nitelikler",
@@ -467,6 +467,8 @@
   "banner.how_to_open": "Bir kaydetme dosyası nasıl açılır:",
   "banner.step1": "1. Dosya → Dosya Aç'a (veya Ctrl+O) tıklayın.",
   "banner.step2": "2. Space Haven kaydetme klasörünüzü bulun:",
+
+  "banner.path": "[Oyun klasörü]\\savegames\\[Kayıt adı]\\save\\"
   "banner.step3_pre": "3. Adlı bir dosya seçin",
   "banner.step3_name": "oyun",
   "banner.step3_post": "uzantısız",
