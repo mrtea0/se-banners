@@ -3,6 +3,18 @@
   "banners": 
   [
     {
+      "name": "banner0105",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banrer0105.png",
+      "clickUrl": "",
+      "durationSeconds": 60,
+      "tooltip": "Поздравляю с 1 мая, капитан! 🚀\nВы ведёте свой корабль так, как считаете нужным — пусть этот путь приносит только спокойствие и результат.\nРасширенный режим активирован с 30 апреля по 3 мая",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": true
+    },
+    {
       "name": "banner2_SH",
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner2.png",
       "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
@@ -29,18 +41,7 @@
   ],
   "compactBanners": 
   [    
-    {
-      "name": "text_feedbackbug",
-      "bannerImageUrl": "",  
-      "stretch": "Uniform",
-      "tooltip": "Написать",
-      "clickUrl": "",
-      "clickAction": "feedback:2",
-      "text": "В настройках сложности не меняйте параметр type, игра не будет сохранятся. ",
-      "subText": "В описании настроек сложности не правилные значения. К концу месяца выйдет новая версия в ней:\nНастройки сложности переработаны, Локализация интерфейса\nМножество небольших улучшений и исправления ошибок.\nЭто пространство продаётся под баннер за 199₽ в месяц",
-      "durationSeconds": 10,
-      "forceShow": true
-    }
+    
   ],
   "miniBanners": 
   [
@@ -57,13 +58,13 @@
       "forceShow": true
     }
   ],
-  "version": "10.0.11",
-  "appVersion": "10",
-  "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_ru_10_mrtea07-1674542",
+  "version": "11.0.0",
+  "appVersion": "11",
+  "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_11_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
   "updateNotificationDurationSeconds": 60,
   "donatorIds": ["08b533ba7c6f4be5","ff25edf2e155377c"],
-  "proModeEnabled": false,
+  "proModeEnabled": true,
   "proModePrice": "~69 ₽",
   "tm_enabled": true,
   "email_if_tg_is_not": true,
