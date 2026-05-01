@@ -79,7 +79,7 @@
   "email_feedback_enabled": true,
   "email_blocked_versions": [],
   "spam_filter_minutes": 1,
-  "feedback_visible": false,
+  "feedback_visible": true,
   "notify_key": "WmT/Gyjv25c4RHX+XIthlV64YTHRUdS1qAsnacFJZqOU6VSIF8Ro3i2jn/JjbytN",
   "delete_banner_cache_all": false,
   "request_current_online": false,
