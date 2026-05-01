@@ -52,13 +52,13 @@
       "durationSeconds": 20,
       "tooltip": "Привет, я Сейви Эдитор Тиевна",
       "stretch": "Uniform",
-      "clickAction": "feedback:2",
+      "clickAction": "",
       "text": "by MrTea07",
       "subText": "",
       "forceShow": true
     }
   ],
-  "version": "11.1.1",
+  "version": "11.1.2",
   "appVersion": "11.1",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_11_1_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
