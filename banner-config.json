@@ -83,7 +83,6 @@
   "notify_key": "WmT/Gyjv25c4RHX+XIthlV64YTHRUdS1qAsnacFJZqOU6VSIF8Ro3i2jn/JjbytN",
   "delete_banner_cache_all": false,
   "request_current_online": false,
-
-  "self_delete_version": "9, 9.0, 9.1, 9.2, 10, 11, 11.1",
+  "self_delete_version": "9, 9.0, 9.1, 9.2, 10, 11,",
   "languages": ["ru:Русский:1","en:English:1","zh:中文:1","cs:Čeština:1","de:Deutsch:1","es:Español:1","fr:Français:1","it:Italiano:1","ja:日本語:1","ko:한국어:1","pl:Polski:1","pt:Português (Brasil):1","tr:Türkçe:1","saveyan:Русский (Сейвианский):1"]
 }
