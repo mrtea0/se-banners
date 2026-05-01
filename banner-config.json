@@ -58,7 +58,7 @@
       "forceShow": true
     }
   ],
-  "version": "11.1.0",
+  "version": "11.1.1",
   "appVersion": "11.1",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_11_1_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
@@ -68,10 +68,10 @@
   "proModePrice": "~69 ₽",
   "tm_enabled": true,
   "email_if_tg_is_not": true,
-  "tg_enabled": true,
-  "tg_tmy_enabled": true,
-  "tg_errors_enabled": true,
-  "tg_feedback_enabled": true,
+  "tg_enabled": false,
+  "tg_tmy_enabled": false,
+  "tg_errors_enabled": false,
+  "tg_feedback_enabled": false,
   "tg_blocked_versions": [],
   "email_enabled": true,
   "email_tmy_enabled": true,
