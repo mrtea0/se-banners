@@ -49,7 +49,7 @@
       "clickUrl": "",
       "clickAction": "feedback:2",
       "text": "Я что то пропустил откуда 1.0.0_steam_1?",
-      "subText": "В предварителном тестировании разве она есть ?",
+      "subText": "В предварителном тестировании разве она есть ?\nПочинил фидбек он не работол",
       "durationSeconds": 10,
       "forceShow": true
     }
@@ -91,6 +91,7 @@
   "email_blocked_versions": [],
   "spam_filter_minutes": 1,
   "feedback_visible": true,
+  "feedback_enabled": true,
   "notify_key": "WmT/Gyjv25c4RHX+XIthlV64YTHRUdS1qAsnacFJZqOU6VSIF8Ro3i2jn/JjbytN",
   "delete_banner_cache_all": false,
   "request_current_online": false,
