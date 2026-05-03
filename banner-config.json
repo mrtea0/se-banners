@@ -41,18 +41,7 @@
   ],
   "compactBanners": 
   [    
-        {
-      "name": "text_feedbackbug",
-      "bannerImageUrl": "",  
-      "stretch": "Uniform",
-      "tooltip": "Написать",
-      "clickUrl": "",
-      "clickAction": "feedback:2",
-      "text": "Я что то пропустил откуда 1.0.0_steam_1?",
-      "subText": "В предварителном тестировании разве она есть ?\nПочинил фидбек он не работол",
-      "durationSeconds": 10,
-      "forceShow": true
-    }
+
   ],
   "miniBanners": 
   [
