@@ -3,18 +3,6 @@
   "banners": 
   [
     {
-      "name": "banner0105",
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banrer0105.png",
-      "clickUrl": "",
-      "durationSeconds": 60,
-      "tooltip": "Поздравляю с 1 мая, капитан! 🚀\nВы ведёте свой корабль так, как считаете нужным - пусть этот путь приносит только спокойствие и результат.\nРасширенный режим активирован с 30 по 3 мая",
-      "stretch": "Uniform",
-      "clickAction": "url",
-      "text": "",
-      "subText": "",
-      "forceShow": true
-    },
-    {
       "name": "banner2_SH",
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner2.png",
       "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
@@ -64,7 +52,7 @@
   "contactUrl": "https://www.t.me/mrtea07",
   "updateNotificationDurationSeconds": 60,
   "donatorIds": ["08b533ba7c6f4be5","ff25edf2e155377c"],
-  "proModeEnabled": true,
+  "proModeEnabled": false,
   "proModePrice": "~69 ₽",
   "tm_enabled": true,
   "email_if_tg_is_not": false,
