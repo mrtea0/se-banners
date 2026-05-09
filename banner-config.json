@@ -29,7 +29,18 @@
   ],
   "compactBanners": 
   [    
-
+    {
+      "name": "text_0905",
+      "bannerImageUrl": "",  
+      "stretch": "Uniform",
+      "tooltip": "Командир, с Днём Победы!\nРасширенный режим активирован",
+      "clickUrl": "",
+      "clickAction": "feedback:2",
+      "text": "Командир, с Днём Победы!",
+      "subText": "День тех, кто выдержал невозможное.\nБереги экипаж, держи курс и не сдавайся даже в самом тёмном секторе космоса.",
+      "durationSeconds": 10,
+      "forceShow": true
+    }
   ],
   "miniBanners": 
   [
@@ -52,7 +63,7 @@
   "contactUrl": "https://www.t.me/mrtea07",
   "updateNotificationDurationSeconds": 60,
   "donatorIds": ["08b533ba7c6f4be5","ff25edf2e155377c"],
-  "proModeEnabled": false,
+  "proModeEnabled": true,
   "proModePrice": "~69 ₽",
   "tm_enabled": true,
   "email_if_tg_is_not": false,
