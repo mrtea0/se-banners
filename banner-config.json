@@ -45,19 +45,19 @@
   "miniBanners": 
   [
     {
-      "name": "hi",
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/savey.png",
+      "name": "mini0905",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/mini0905.png",
       "clickUrl": "",
       "durationSeconds": 20,
-      "tooltip": "Привет, я Сейви Эдитор Тиевна",
+      "tooltip": "",
       "stretch": "Uniform",
       "clickAction": "",
-      "text": "by MrTea07",
+      "text": "",
       "subText": "",
       "forceShow": true
     }
   ],
-  "version": "11.2.2",
+  "version": "11.2.09",
   "appVersion": "11.2",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_11_2_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
