@@ -1,4 +1,4 @@
-﻿{
+{
   "_meta.language": "pl",
   "_meta.name": "Polski",
   "_meta.author": "MrTea07 (auto-translated)",
@@ -16,6 +16,7 @@
   "common.save_exit": "Zapisz i wyjdź",
   "common.save": "Ratować",
   "common.cancel": "Anulować",
+  "common.yes": "Tak",
   "common.add": "Dodać",
   "common.delete": "Usuwać",
   "common.edit": "Redagować",
@@ -88,6 +89,10 @@
   "character.col_friendship": "Przyjaźń",
   "character.col_attraction": "Atrakcja",
   "character.col_compat": "Zgodność",
+  "character.col_rel_status": "Status",
+  "character.rel_status_none": "Nic",
+  "character.rel_status_best_friends": "Najlepszy przyjaciel",
+  "character.rel_status_lovers": "Kochanek/ca",
   "character.rel_100_all": "100 Wszystko",
   "character.rel_100_all_tip": "Ustawia wartości (100) dla wszystkich parametrów relacji ze wszystkimi znakami",
   "character.rel_100_friend": "100 przyjaźni",

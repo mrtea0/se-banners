@@ -1,4 +1,4 @@
-﻿{
+{
   "_meta.language": "ja",
   "_meta.name": "日本語",
   "_meta.author": "MrTea07 (auto-translated)",
@@ -16,6 +16,7 @@
   "common.save_exit": "保存して終了",
   "common.save": "保存",
   "common.cancel": "キャンセル",
+  "common.yes": "はい",
   "common.add": "追加",
   "common.delete": "消去",
   "common.edit": "編集",
@@ -88,6 +89,10 @@
   "character.col_friendship": "友情",
   "character.col_attraction": "アトラクション",
   "character.col_compat": "互換性",
+  "character.col_rel_status": "ステータス",
+  "character.rel_status_none": "なし",
+  "character.rel_status_best_friends": "親友",
+  "character.rel_status_lovers": "恋人",
   "character.rel_100_all": "100すべて",
   "character.rel_100_all_tip": "すべてのキャラクターとのすべての関係パラメータの値を(100)に設定します",
   "character.rel_100_friend": "友情100",

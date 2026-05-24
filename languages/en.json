@@ -18,6 +18,7 @@
   "common.save_exit":                     "Save and Exit",
   "common.save":                          "Save",
   "common.cancel":                        "Cancel",
+  "common.yes":                           "Yes",
   "common.add":                           "Add",
   "common.delete":                        "Delete",
   "common.edit":                          "Edit",

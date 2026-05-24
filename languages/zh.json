@@ -1,4 +1,4 @@
-﻿{
+{
   "_meta.language": "zh",
   "_meta.name": "中文 (简体)",
   "_meta.author": "MrTea07 (auto-translated)",
@@ -16,6 +16,7 @@
   "common.save_exit": "保存并退出",
   "common.save": "节省",
   "common.cancel": "取消",
+  "common.yes": "是",
   "common.add": "添加",
   "common.delete": "删除",
   "common.edit": "编辑",
@@ -88,6 +89,10 @@
   "character.col_friendship": "友谊",
   "character.col_attraction": "景点",
   "character.col_compat": "兼容性",
+  "character.col_rel_status": "状态",
+  "character.rel_status_none": "无",
+  "character.rel_status_best_friends": "最好的朋友",
+  "character.rel_status_lovers": "恋人",
   "character.rel_100_all": "100 全部",
   "character.rel_100_all_tip": "为所有角色的所有关系参数设置值（100）",
   "character.rel_100_friend": "100 友谊",

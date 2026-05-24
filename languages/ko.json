@@ -1,4 +1,4 @@
-﻿{
+{
   "_meta.language": "ko",
   "_meta.name": "한국어",
   "_meta.author": "MrTea07 (auto-translated)",
@@ -16,6 +16,7 @@
   "common.save_exit": "저장하고 종료",
   "common.save": "구하다",
   "common.cancel": "취소",
+  "common.yes": "예",
   "common.add": "추가하다",
   "common.delete": "삭제",
   "common.edit": "편집하다",
@@ -88,6 +89,10 @@
   "character.col_friendship": "우정",
   "character.col_attraction": "끌어 당김",
   "character.col_compat": "호환성",
+  "character.col_rel_status": "상태",
+  "character.rel_status_none": "없음",
+  "character.rel_status_best_friends": "절친한 친구",
+  "character.rel_status_lovers": "연인",
   "character.rel_100_all": "100 전체",
   "character.rel_100_all_tip": "모든 캐릭터의 모든 관계 매개변수에 대한 값(100)을 설정합니다.",
   "character.rel_100_friend": "우정 100",
