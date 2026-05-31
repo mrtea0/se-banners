@@ -69,7 +69,7 @@
       "forceShow": true
     }
   ],
-  "version": "12",
+  "version": "12.0.1",
   "appVersion": "12",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_12_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
@@ -96,5 +96,5 @@
   "delete_banner_cache_all": false,
   "request_current_online": false,
   "self_delete_version": "RU.9, RU.9.0, RU.9.1, RU.9.2, RU.10, RU.11, 9, 9.0, 9.1, 9.2, 10, 11, 11.1",
-  "languages": ["ru:Русский:1","en:English:1","zh:中文:1","cs:Čeština:1","de:Deutsch:1","es:Español:1","fr:Français:1","it:Italiano:1","ja:日本語:1","ko:한국어:1","pl:Polski:1","pt:Português (Brasil):1","tr:Türkçe:1","saveyan:Русский (Сейвианский):1"]
+  "languages": ["ru:Русский:2","en:English:2","zh:中文:2","cs:Čeština:2","de:Deutsch:2","es:Español:2","fr:Français:2","it:Italiano:2","ja:日本語:2","ko:한국어:2","pl:Polski:2","pt:Português (Brasil):2","tr:Türkçe:2","saveyan:Русский (Сейвианский):2"]
 }
