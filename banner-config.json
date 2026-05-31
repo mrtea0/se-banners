@@ -96,5 +96,5 @@
   "delete_banner_cache_all": false,
   "request_current_online": false,
   "self_delete_version": "RU.9, RU.9.0, RU.9.1, RU.9.2, RU.10, RU.11, 9, 9.0, 9.1, 9.2, 10, 11, 11.1",
-  "languages": ["ru:Русский:2","en:English:2","zh:中文:2","cs:Čeština:2","de:Deutsch:2","es:Español:2","fr:Français:2","it:Italiano:2","ja:日本語:2","ko:한국어:2","pl:Polski:2","pt:Português (Brasil):2","tr:Türkçe:2","saveyan:Русский (Сейвианский):2"]
+  "languages": ["ru:Русский:3","en:English:3","zh:中文:3","cs:Čeština:3","de:Deutsch:3","es:Español:3","fr:Français:3","it:Italiano:3","ja:日本語:3","ko:한국어:3","pl:Polski:3","pt:Português (Brasil):3","tr:Türkçe:3","saveyan:Русский (Сейвианский):3"]
 }
