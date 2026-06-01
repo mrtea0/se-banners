@@ -29,53 +29,42 @@
   ],
   "compactBanners": 
   [
-    {
-      "name": "text_010626",
-      "bannerImageUrl": "",
-      "stretch": "Uniform",
-      "tooltip": "Нажми, чтобы оставить отзыв",
-      "clickUrl": "",
-      "clickAction": "feedback:2",
-      "text": "Расширенный режим активен до конца 1~ июня для всех",
-      "subText": "Расскажи, что не нравится и что улучшить в редакторе - нажми сюда",
-      "durationSeconds": 10,
-      "forceShow": false
-    }
   ],
   "miniBanners": 
   [
+
+    {
+      "name": "hi",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/savey.png",
+      "clickUrl": "",
+      "durationSeconds": 15,
+      "tooltip": "Привет, я Сейви Эдитор Тиевна\nРасскажи, что не нравится и что улучшить в редакторе",
+      "stretch": "Uniform",
+      "clickAction": "",
+      "text": "by MrTea07",
+      "subText": "",
+      "forceShow": true
+    },
     {
       "name": "minicat",
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/minicat.png",
       "clickUrl": "",
-      "durationSeconds": 30,
+      "durationSeconds": 15,
       "tooltip": "",
       "stretch": "Uniform",
       "clickAction": "",
       "text": "",
       "subText": "",
       "forceShow": true
-    },
-    {
-      "name": "hi",
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/savey.png",
-      "clickUrl": "",
-      "durationSeconds": 30,
-      "tooltip": "Привет, я Сейви Эдитор Тиевна",
-      "stretch": "Uniform",
-      "clickAction": "",
-      "text": "by MrTea07",
-      "subText": "",
-      "forceShow": true
     }
   ],
-  "version": "12.0.1",
+  "version": "12.0.2",
   "appVersion": "12",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_12_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
   "updateNotificationDurationSeconds": 60,
   "donatorIds": ["08b533ba7c6f4be5","ff25edf2e155377c","417a74f8d3450409"],
-  "proModeEnabled": true,
+  "proModeEnabled": false,
   "proModePrice": "~69 ₽",
   "tm_enabled": true,
   "email_if_tg_is_not": false,
