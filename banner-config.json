@@ -40,7 +40,7 @@
       "durationSeconds": 15,
       "tooltip": "Привет, я Сейви Эдитор Тиевна\nРасскажи, что не нравится и что улучшить в редакторе",
       "stretch": "Uniform",
-      "clickAction": "",
+      "clickAction": "feedback:2",
       "text": "by MrTea07",
       "subText": "",
       "forceShow": true
