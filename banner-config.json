@@ -33,12 +33,12 @@
       "name": "text_040626_donat",
       "bannerImageUrl": "",
       "stretch": "Uniform",
-      "tooltip": "Нажми чтобы открыть окно расширеного режима",
+      "tooltip": "Нажми чтобы открыть окно расширенного режима",
       "clickUrl": "",
       "clickAction": "window:donator",
       "text": "Нужна помощь с оплатой интернета.",
-      "subText": "Если редактор был полезен рассмотрите возможность поддержать проект ❤️ ~500₽ /nЗа всё время разработки я в большом минусе.\nРасширенный режим навсегда от 69₽, так же продаются рекламные места/баннеры.\nПишите в тг @mrtea07 или на почту mrtea07@mail.ru",
-      "durationSeconds": 10,
+      "subText": "Если редактор был полезен, рассмотрите возможность поддержать проект ❤️ ~500₽ За всё время разработки я в большом минусе.\nРасширенный режим навсегда от 69₽, так же продаются рекламные места/баннеры.\nПишите в Telegram @mrtea07 или на почту mrtea07@mail.ru",
+      "durationSeconds": 15,
       "forceShow": false
     },
     {
@@ -49,10 +49,22 @@
       "clickUrl": "",
       "clickAction": "feedback:2",
       "text": "Ищу работу",
-      "subText": "Рассмотрю удалённую работу, подработку или разовые заказы.\nC#, XML, приложениями, python и js скрипты, html, БД\n\nПишите в Telegram @mrtea07 или на почту mrtea07@mail.ru",
-      "durationSeconds": 10,
+      "subText": "Рассмотрю удалённую работу, подработку или разовые заказы.\nC#, XML, приложения, Python и JS-скрипты, HTML, БД\n\nПишите в Telegram @mrtea07 или на почту mrtea07@mail.ru",
+      "durationSeconds": 15,
       "forceShow": false
-}
+    },
+    {
+      "name": "text_040626_trend3",
+      "bannerImageUrl": "",
+      "stretch": "Uniform",
+      "tooltip": "Нажми чтобы открыть окно поддержки",
+      "clickUrl": "",
+      "clickAction": "window:donator",
+      "text": "Проверим тренды интернета? 😅",
+      "subText": "Где люди помогают друг другу даже небольшой суммой.\n\nРедактор развивается уже несколько лет и всё это время существует в основном на энтузиазме.\nЕсли хотите помочь проекту жить дальше - буду благодарен любой поддержке ❤️",
+      "durationSeconds": 15,
+      "forceShow": false
+    }
   ],
   "miniBanners": 
   [
@@ -82,7 +94,7 @@
       "forceShow": true
     }
   ],
-  "version": "12.0.2",
+  "version": "12.0.3",
   "appVersion": "12",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_12_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
