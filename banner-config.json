@@ -29,6 +29,30 @@
   ],
   "compactBanners": 
   [
+    {
+      "name": "text_040626_donat",
+      "bannerImageUrl": "",
+      "stretch": "Uniform",
+      "tooltip": "Нажми чтобы открыть окно расширеного режима",
+      "clickUrl": "",
+      "clickAction": "window:donator",
+      "text": "Нужна помощь с оплатой интернета.",
+      "subText": "Если редактор был полезен рассмотрите возможность поддержать проект ❤️ ~500₽ /nЗа всё время разработки я в большом минусе.\nРасширенный режим навсегда от 69₽, так же продаются рекламные места/баннеры.\nПишите в тг @mrtea07 или на почту mrtea07@mail.ru",
+      "durationSeconds": 10,
+      "forceShow": false
+    },
+    {
+      "name": "text_040626_work",
+      "bannerImageUrl": "",
+      "stretch": "Uniform",
+      "tooltip": "Нажми чтобы открыть окно обратной связи",
+      "clickUrl": "",
+      "clickAction": "feedback:2",
+      "text": "Ищу работу",
+      "subText": "Рассмотрю удалённую работу, подработку или разовые заказы.\nC#, XML, приложениями, python и js скрипты, html, БД\n\nПишите в Telegram @mrtea07 или на почту mrtea07@mail.ru",
+      "durationSeconds": 10,
+      "forceShow": false
+}
   ],
   "miniBanners": 
   [
