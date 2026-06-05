@@ -29,6 +29,18 @@
   ],
   "compactBanners": 
   [
+         {
+      "name": "text_will",
+      "bannerImageUrl": "",
+      "stretch": "Uniform",
+      "tooltip": "Нажми чтобы открыть окно расширенного режима",
+      "clickUrl": "",
+      "clickAction": "window:donator",
+      "text": "Не, я понимаю я не самый обаятельный, приятный парень на свете… Но чтоб… Никто",
+      "subText": "",
+      "durationSeconds": 20,
+      "forceShow": false
+    },
     {
       "name": "text_040626_donat",
       "bannerImageUrl": "",
