@@ -34,7 +34,12 @@
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/compactBanner1.gif",
       "clickUrl": "https://www.t.me/mrtea07",
       "durationSeconds": 30,
-      "tooltip":"Это баренер с просьбой подкинуть рублей на интернет, а ещё пример рекламного банера за 199₽/мес"
+      "tooltip":"Это баренер с просьбой подкинуть рублей на интернет, а ещё пример рекламного банера за 199₽/мес",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": false
     }
    ],
   "miniBanners": 
