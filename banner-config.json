@@ -58,12 +58,12 @@
     }
 
   ],
-  "version": "12.0.8",
+  "version": "12.0.9",
   "appVersion": "12",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_12_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
   "updateNotificationDurationSeconds": 60,
-  "donatorIds": ["08b533ba7c6f4be5","ff25edf2e155377c","417a74f8d3450409","c6644bc97e8a8d13"],
+  "donatorIds": ["08b533ba7c6f4be5","ff25edf2e155377c","417a74f8d3450409","c6644bc97e8a8d13","33a3f8fe4a34e237"],
   "proModeEnabled": false,
   "proModePrice": "~69 ₽",
   "tm_enabled": true,
