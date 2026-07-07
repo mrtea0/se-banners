@@ -2,24 +2,12 @@
   "enabled": true,
   "banners": 
   [
-       {
-      "name": "banner0707",
-      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner0707.png",
-      "clickUrl": "https://www.t.me/mrtea07",
-      "durationSeconds": 60,
-      "tooltip": "С Днём Рождения создатель!",
-      "stretch": "Uniform",
-      "clickAction": "url",
-      "text": "",
-      "subText": "",
-      "forceShow": true
-    }, 
     {
       "name": "banner2_SH",
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner2.png",
       "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
       "durationSeconds": 60,
-      "tooltip": "Здесь может быть ваша реклама за ~69₽ в месяц",
+      "tooltip": "Здесь может быть ваша реклама за ~319₽ в месяц",
       "stretch": "Uniform",
       "clickAction": "url",
       "text": "",
@@ -41,18 +29,6 @@
   ],
   "compactBanners": 
   [ 
-   {
-      "name": "compact_0707dr",
-      "bannerImageUrl": "",
-      "clickUrl": "https://www.t.me/mrtea07",
-      "durationSeconds": 120,
-      "tooltip": "",
-      "stretch": "Uniform",
-      "clickAction": "url",
-      "text": "С днём рождения меня!)",
-      "subText": "Расширенный режим СЕГОДНЯ БЕСПЛАТНЫЙ! Поздравить по СБП пишите в Telegram: @mrtea07 или на почту mail)",
-      "forceShow": true
-    }
   ],
   "miniBanners": 
   [
@@ -73,23 +49,23 @@
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/savey.png",
       "clickUrl": "",
       "durationSeconds": 15,
-      "tooltip": "Привет, я Сейви Эдитор Тиевна\nРасскажи, что не нравится и что улучшить в редакторе",
+      "tooltip": "Привет, я Сейви Эдитор Тиевна",
       "stretch": "Uniform",
-      "clickAction": "feedback:2",
+      "clickAction": "",
       "text": "by MrTea07",
       "subText": "",
       "forceShow": true
     }
 
   ],
-  "version": "12.0.11",
+  "version": "12.0.12",
   "appVersion": "12",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_12_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
   "updateNotificationDurationSeconds": 60,
   "donatorIds": ["08b533ba7c6f4be5","ff25edf2e155377c","417a74f8d3450409","c6644bc97e8a8d13","33a3f8fe4a34e237"],
-  "proModeEnabled": true,
-  "proModePrice": "~69 ₽",
+  "proModeEnabled": false,
+  "proModePrice": "~69 ₽ навсегда",
   "tm_enabled": true,
   "email_if_tg_is_not": false,
   "tg_enabled": false,
