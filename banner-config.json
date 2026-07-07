@@ -2,6 +2,18 @@
   "enabled": true,
   "banners": 
   [
+       {
+      "name": "banner0707",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner0707.png",
+      "clickUrl": "https://www.t.me/mrtea07",
+      "durationSeconds": 60,
+      "tooltip": "С Днём Рождения создатель!",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": true
+    }, 
     {
       "name": "banner2_SH",
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner2.png",
