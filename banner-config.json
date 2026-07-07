@@ -29,6 +29,18 @@
   ],
   "compactBanners": 
   [ 
+   {
+      "name": "compact_0707dr",
+      "bannerImageUrl": "",
+      "clickUrl": "https://www.t.me/mrtea07",
+      "durationSeconds": 120,
+      "tooltip": "",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "С днём рождения меня!)",
+      "subText": "Расширенный режим СЕГОДНЯ БЕСПЛАТНЫЙ! Поздравить по СБП пишите в Telegram: @mrtea07 или на почту mail)",
+      "forceShow": true
+    }
   ],
   "miniBanners": 
   [
@@ -58,13 +70,13 @@
     }
 
   ],
-  "version": "12.0.9",
+  "version": "12.0.10",
   "appVersion": "12",
   "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_12_mrtea07-1674542",
   "contactUrl": "https://www.t.me/mrtea07",
   "updateNotificationDurationSeconds": 60,
   "donatorIds": ["08b533ba7c6f4be5","ff25edf2e155377c","417a74f8d3450409","c6644bc97e8a8d13","33a3f8fe4a34e237"],
-  "proModeEnabled": false,
+  "proModeEnabled": true,
   "proModePrice": "~69 ₽",
   "tm_enabled": true,
   "email_if_tg_is_not": false,
