@@ -42,6 +42,30 @@
   ],
   "compactBanners": 
   [ 
+    {
+      "name": "compact_сbrigplusru",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/compact_сbrigplusru.png",
+      "clickUrl": "https://brigplus.ru/catalog/katalog_po_vidam/pol_%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9",
+      "durationSeconds": 10,
+      "tooltip":"Магазин косметики, парфюмерии, бытовой химии и товаров для ухода",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": false
+    },
+    {
+      "name": "compact_gif_сbrigplusru",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/compact_gif_сbrigplusru.gif",
+      "clickUrl": "https://brigplus.ru/catalog/katalog_po_vidam/pol_%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9",
+      "durationSeconds": 60,
+      "tooltip":"Магазин косметики, парфюмерии, бытовой химии и товаров для ухода",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": false
+    }
   ],
   "miniBanners": 
   [
