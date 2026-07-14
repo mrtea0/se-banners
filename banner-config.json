@@ -2,11 +2,24 @@
   "enabled": true,
   "banners": 
   [
+    
+    {
+      "name": "StartBanner_brigplusru",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/brigplusru.png",
+      "clickUrl": "https://brigplus.ru/",
+      "durationSeconds": 60,
+      "tooltip": "Магазин косметики, парфюмерии, бытовой химии и товаров для ухода",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": false
+    }, 
     {
       "name": "banner2_SH",
       "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner2.png",
       "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
-      "durationSeconds": 60,
+      "durationSeconds": 10,
       "tooltip": "Здесь может быть ваша реклама за ~319₽ в месяц",
       "stretch": "Uniform",
       "clickAction": "url",
