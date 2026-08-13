@@ -1,0 +1,16 @@
+# Игнорируем всё кроме нужных файлов
+/*
+!/.gitignore
+!/README.md
+!/banner-config.json
+!/banners/
+!/languages/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~

@@ -1,0 +1,137 @@
+{
+  "enabled": true,
+  "banners":
+  [
+    {
+      "name": "banner2_SH",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner2.png",
+      "clickUrl": "https://users.playground.ru/4715849/posts/cheat",
+      "durationSeconds": 5,
+      "tooltip": "",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": false
+    },
+    {
+      "name": "StartBanner_brigplusru",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/brigplusru.png",
+      "clickUrl": "https://brigplus.ru/catalog/katalog_po_vidam/pol_%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9",
+      "durationSeconds": 60,
+      "tooltip": "Магазин косметики, парфюмерии, бытовой химии и товаров для ухода",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": false
+    },
+    {
+      "name": "banner1_SH",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/banner1.png",
+      "clickUrl": "",
+      "durationSeconds": 10,
+      "tooltip": "",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": true
+    }
+  ],
+  "compactBanners": 
+  [     
+    {
+      "name": "compact_ask_features",
+      "bannerImageUrl": "",
+      "clickUrl": "https://www.t.me/mrtea07",
+      "durationSeconds": 10,
+      "tooltip": "Написать в Telegram",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "Что хотели бы увидеть в новой версии?",
+      "subText": "Нажми и напиши в Telegram @mrtea07",
+      "forceShow": false
+    },
+    {
+      "name": "compact_сbrigplusru",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/compact_сbrigplusru.png",
+      "clickUrl": "https://brigplus.ru/catalog/katalog_po_vidam/pol_%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9",
+      "durationSeconds": 10,
+      "tooltip":"Магазин косметики, парфюмерии, бытовой химии и товаров для ухода",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": false
+    },
+    {
+      "name": "compact_gif_сbrigplusru",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/compact_gif_сbrigplusru.gif",
+      "clickUrl": "https://brigplus.ru/catalog/katalog_po_vidam/pol_%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9",
+      "durationSeconds": 60,
+      "tooltip":"Магазин косметики, парфюмерии, бытовой химии и товаров для ухода",
+      "stretch": "Uniform",
+      "clickAction": "url",
+      "text": "",
+      "subText": "",
+      "forceShow": false
+    }
+  ],
+  "miniBanners": 
+  [
+    {
+      "name": "minicat",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/minicat.png",
+      "clickUrl": "",
+      "durationSeconds": 30,
+      "tooltip": "",
+      "stretch": "Uniform",
+      "clickAction": "",
+      "text": "",
+      "subText": "",
+      "forceShow": true
+    },
+    {
+      "name": "hi",
+      "bannerImageUrl": "https://raw.githubusercontent.com/mrtea0/se-banners/main/banners/savey.png",
+      "clickUrl": "",
+      "durationSeconds": 15,
+      "tooltip": "Привет, я Сейви Эдитор Тиевна",
+      "stretch": "Uniform",
+      "clickAction": "",
+      "text": "by MrTea07",
+      "subText": "",
+      "forceShow": true
+    }
+
+  ],
+  "version": "12.0.22",
+  "appVersion": "12",
+  "downloadUrl": "https://www.playground.ru/space_haven/cheat/space_haven_redaktor_sohranenij_na_russkom_modifikator_12_mrtea07-1674542",
+  "contactUrl": "https://www.t.me/mrtea07",
+  "updateNotificationDurationSeconds": 60,
+  "donatorIds": ["08b533ba7c6f4be5","ff25edf2e155377c","417a74f8d3450409","c6644bc97e8a8d13","33a3f8fe4a34e237","3e22f4e30d87a2cc","b00a5bd9f480d6f6","aea1b5dec312f921","37aa466cc930be78","92c658145c5fe3f3"],
+  "proModeEnabled": false,
+  "proModePrice": "~115 ₽ навсегда",
+  "tm_enabled": true,
+  "email_if_tg_is_not": false,
+  "tg_enabled": false,
+  "tg_tmy_enabled": false,
+  "tg_errors_enabled": false,
+  "tg_feedback_enabled": false,
+  "tg_blocked_versions": [],
+  "email_enabled": true,
+  "email_tmy_enabled": true,
+  "email_errors_enabled": true,
+  "email_feedback_enabled": true,
+  "email_blocked_versions": [],
+  "spam_filter_minutes": 1,
+  "feedback_visible": true,
+  "feedback_enabled": true,
+  "notify_key": "WmT/Gyjv25c4RHX+XIthlV64YTHRUdS1qAsnacFJZqOU6VSIF8Ro3i2jn/JjbytN",
+  "delete_banner_cache_all": false,
+  "request_current_online": false,
+  "self_delete_version": "RU.9, RU.9.0, RU.9.1, RU.9.2, RU.10, RU.11, 9, 9.0, 9.1, 9.2, 10, 11, 11.1",
+  "languages": ["ru:Русский:3","en:English:3","zh:中文:3","cs:Čeština:3","de:Deutsch:3","es:Español:3","fr:Français:3","it:Italiano:3","ja:日本語:3","ko:한국어:3","pl:Polski:3","pt:Português (Brasil):3","tr:Türkçe:3","saveyan:Русский (Сейвианский):3"]
+}
